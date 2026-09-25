@@ -1,0 +1,15 @@
+name: Planning checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  planning:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python world_series_cursor_pack/tools/validate_pack.py
+      - run: python world_series_cursor_pack/tools/check_math_reference.py

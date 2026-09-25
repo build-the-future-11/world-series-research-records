@@ -1,0 +1,14 @@
+/world-series/
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+# Post-push receipts cannot embed their own Git commit hash.
+/GITHUB_EXPORT_MASTER_REPORT.md
+/release_export/20260925/remote-verification.json
+/release_export/20260925/final-status.json
+/release_export/20260925/final-secret-*.json
+/release_export/20260925/final-secret-*.log

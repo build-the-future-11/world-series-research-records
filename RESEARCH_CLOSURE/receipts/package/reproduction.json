@@ -1,0 +1,91 @@
+{
+  "passed": true,
+  "commands": [
+    {
+      "step": "dependencies",
+      "argv": [
+        "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+        "-m",
+        "pip",
+        "check"
+      ],
+      "cwd": "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/finite-closure/verified-review/extracted/repository",
+      "exit_code": 0,
+      "seconds": 0.6526580409999951,
+      "log": "dependencies.log",
+      "log_sha256": "9261363b733079a641c2e4cc9bc46ffa1d8336945a87f807b6cf68847dbc9b09"
+    },
+    {
+      "step": "tests",
+      "argv": [
+        "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+        "-m",
+        "pytest",
+        "tests",
+        "-q",
+        "--basetemp",
+        "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/finite-closure/verified-review/scratch/pytest"
+      ],
+      "cwd": "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/finite-closure/verified-review/extracted/repository",
+      "exit_code": 0,
+      "seconds": 12.159998083000119,
+      "log": "tests.log",
+      "log_sha256": "15d6ad92bfa664f948f5eecb9a8b882592c6366dd56aaf7b4c487abc8d56f243"
+    },
+    {
+      "step": "doctor",
+      "argv": [
+        "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+        "-m",
+        "world_series",
+        "doctor"
+      ],
+      "cwd": "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/finite-closure/verified-review/extracted/repository",
+      "exit_code": 0,
+      "seconds": 4.020726624999952,
+      "log": "doctor.log",
+      "log_sha256": "e8aa47b662cb684d0ae9f3b76a90925f93a24ff9db1ee02c70620e06a9dd2f5e"
+    },
+    {
+      "step": "analysis",
+      "argv": [
+        "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+        "scripts/analyze_development.py"
+      ],
+      "cwd": "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/finite-closure/verified-review/extracted/repository",
+      "exit_code": 0,
+      "seconds": 1.6425147500003732,
+      "log": "analysis.log",
+      "log_sha256": "cd58d8b411e99980f6bb6aa24592d758722c59d0180d78c9c4bcfd2f6b282373"
+    },
+    {
+      "step": "artifact_audit",
+      "argv": [
+        "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+        "scripts/audit_development.py"
+      ],
+      "cwd": "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/finite-closure/verified-review/extracted/repository",
+      "exit_code": 0,
+      "seconds": 1.0460177080003632,
+      "log": "artifact_audit.log",
+      "log_sha256": "3c83aff59a1f2aabf6ba117802e54385f397d1ec9b2e444938274a6f179a3d13"
+    },
+    {
+      "step": "wfim_predictions",
+      "argv": [
+        "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+        "scripts/closure/analyze_wfim_learning.py",
+        "--root",
+        "campaigns/wfim-coordinate-development-v1",
+        "--output",
+        "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/finite-closure/verified-review/wfim_predictions.json"
+      ],
+      "cwd": "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/finite-closure/verified-review/extracted/repository",
+      "exit_code": 0,
+      "seconds": 10.208873208000114,
+      "log": "wfim_predictions.log",
+      "log_sha256": "45647ca72e0692639bd13cab0b3a0168050df45996c5698cd3e7c504b584514a"
+    }
+  ],
+  "scope": "Isolated archive source and preserved data using caller dependency environment; not independent replication or all nine full retrainings."
+}

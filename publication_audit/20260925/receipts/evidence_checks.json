@@ -1,0 +1,425 @@
+{
+  "time_utc": "2026-09-25T01:23:01.485983+00:00",
+  "head": "3a5385be199abd5e6792932a40d7e667f095be45",
+  "source_hashes": {
+    "world-series/paper/preprint.md": "c60f991c02a4cd2a9d53bb2d8aec9f2fa4342c1fbc17151635ccfd92211ad8ea",
+    "world-series/paper/preprint.tex": "28e370a8360c3cf80dadad534761b9d60e31146d53f7a2b5a9e6a4836127a655",
+    "world-series/paper/preprint.pdf": "80e054e8dc854bfa872954fe65f1e2674cb08248f660a2f0cd82573833c91294",
+    "world-series/results/claim_index.json": "02dc286737243e78db68eecd8ab9ad93b01dd906faa00d4ccd268d862a986129"
+  },
+  "claim_index": {
+    "unique_paths": 8539,
+    "mismatches": [],
+    "mixed_path_roots": [
+      {
+        "path": "campaigns/closure-20260924/ultron.json",
+        "resolved": "world-series/campaigns/closure-20260924/ultron.json",
+        "sha256": "c61effcaa7c7a3f760c7f38cc50deeb558cf1c3be0e1307e9d5e5e091dc61f8c"
+      }
+    ]
+  },
+  "final_source_manifest": {
+    "paths": 356,
+    "mismatches": []
+  },
+  "wft": {
+    "total_rows": 2688,
+    "transfer_rows": 1792,
+    "means": {
+      "both": 0.0003038780975818541,
+      "fixed_geometry": 0.0013212228162930082,
+      "oracle_true_operator": 0.0,
+      "resolution": 0.0004980942469483356,
+      "symmetry": 0.0005058279016484093,
+      "unconstrained": 0.0009285609103500105,
+      "wrong_symmetry": 0.001007201406135168
+    },
+    "relative_error_reduction": 0.6727429571988868,
+    "all_condition_losses": 12,
+    "all_conditions": 48,
+    "transfer_condition_losses": 8,
+    "transfer_conditions": 32,
+    "loss_conditions": [
+      {
+        "method": "both",
+        "samples": 16,
+        "noise": 0.0,
+        "groups": 16,
+        "topology": "cycle",
+        "level": 0,
+        "instances": 8,
+        "relative_prediction_error": 2.974467128382716e-08,
+        "relative_compression_error": 0.40894804285073433,
+        "ranks_retained": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "method": "both",
+        "samples": 16,
+        "noise": 0.0,
+        "groups": 16,
+        "topology": "cycle",
+        "level": 1,
+        "instances": 8,
+        "relative_prediction_error": 2.3392055567545443e-08,
+        "relative_compression_error": 0.3030963740843736,
+        "ranks_retained": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "method": "both",
+        "samples": 16,
+        "noise": 0.0,
+        "groups": 16,
+        "topology": "path",
+        "level": 0,
+        "instances": 8,
+        "relative_prediction_error": 2.7711574315791538e-08,
+        "relative_compression_error": 0.3795959267890011,
+        "ranks_retained": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "method": "both",
+        "samples": 16,
+        "noise": 0.0,
+        "groups": 16,
+        "topology": "path",
+        "level": 1,
+        "instances": 8,
+        "relative_prediction_error": 2.3411621178851903e-08,
+        "relative_compression_error": 0.29975762753568347,
+        "ranks_retained": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "method": "both",
+        "samples": 16,
+        "noise": 0.0,
+        "groups": 32,
+        "topology": "cycle",
+        "level": 0,
+        "instances": 8,
+        "relative_prediction_error": 2.7738746048322316e-08,
+        "relative_compression_error": 0.6193965094785632,
+        "ranks_retained": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "method": "both",
+        "samples": 16,
+        "noise": 0.0,
+        "groups": 32,
+        "topology": "cycle",
+        "level": 1,
+        "instances": 8,
+        "relative_prediction_error": 2.75319736083207e-08,
+        "relative_compression_error": 0.5896128295916011,
+        "ranks_retained": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "method": "both",
+        "samples": 16,
+        "noise": 0.0,
+        "groups": 32,
+        "topology": "path",
+        "level": 0,
+        "instances": 8,
+        "relative_prediction_error": 2.728376488410066e-08,
+        "relative_compression_error": 0.6547587562731482,
+        "ranks_retained": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "method": "both",
+        "samples": 16,
+        "noise": 0.0,
+        "groups": 32,
+        "topology": "path",
+        "level": 1,
+        "instances": 8,
+        "relative_prediction_error": 2.989122288245179e-08,
+        "relative_compression_error": 0.6198129711909042,
+        "ranks_retained": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "method": "both",
+        "samples": 16,
+        "noise": 0.0,
+        "groups": 64,
+        "topology": "cycle",
+        "level": 0,
+        "instances": 8,
+        "relative_prediction_error": 2.7970091288678064e-08,
+        "relative_compression_error": 0.8028182454053201,
+        "ranks_retained": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "method": "both",
+        "samples": 16,
+        "noise": 0.0,
+        "groups": 64,
+        "topology": "cycle",
+        "level": 1,
+        "instances": 8,
+        "relative_prediction_error": 2.967422493777593e-08,
+        "relative_compression_error": 0.790045347496275,
+        "ranks_retained": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "method": "both",
+        "samples": 16,
+        "noise": 0.0,
+        "groups": 64,
+        "topology": "path",
+        "level": 0,
+        "instances": 8,
+        "relative_prediction_error": 3.0545905530922125e-08,
+        "relative_compression_error": 0.8134300548788249,
+        "ranks_retained": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "method": "both",
+        "samples": 16,
+        "noise": 0.0,
+        "groups": 64,
+        "topology": "path",
+        "level": 1,
+        "instances": 8,
+        "relative_prediction_error": 2.8266959840307805e-08,
+        "relative_compression_error": 0.7811564726518292,
+        "ranks_retained": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  "wfim": [
+    {
+      "task": "order",
+      "split": "template",
+      "learned": 0.03635234636871891,
+      "identity": 0.03581564210423903,
+      "paired_differences": [
+        -0.0005868299652217537,
+        -0.0013049724756476339,
+        0.0012930141973316253,
+        0.0023242083236631322,
+        0.0027980185063451457,
+        -0.0012972102504648156,
+        -0.0015534520507841723,
+        0.0026208578306174887
+      ],
+      "worse_seeds": 4,
+      "relative_change": 0.014985191747165727
+    },
+    {
+      "task": "order",
+      "split": "length",
+      "learned": 0.009513581782921384,
+      "identity": 0.006032665577834631,
+      "paired_differences": [
+        0.006625748581932171,
+        0.004174791253699972,
+        0.0034259274667599116,
+        0.003166291044102639,
+        0.0029796008238265007,
+        0.001815229693221382,
+        0.0014182492489667143,
+        0.004241491528184733
+      ],
+      "worse_seeds": 8,
+      "relative_change": 0.5770112995947299
+    },
+    {
+      "task": "count",
+      "split": "template",
+      "learned": 2.793623528055211e-05,
+      "identity": 3.959747524278377e-05,
+      "paired_differences": [
+        -8.987712443095333e-06,
+        -1.0964763221565651e-05,
+        -1.1461725505540313e-05,
+        -1.1061053821504241e-05,
+        -1.936193459660959e-05,
+        -1.0444755462622415e-05,
+        -1.2128037665655096e-05,
+        -8.879936981260683e-06
+      ],
+      "worse_seeds": 0,
+      "relative_change": -0.2944945325613103
+    },
+    {
+      "task": "count",
+      "split": "length",
+      "learned": 0.0003727476540080511,
+      "identity": 0.0002947077970111806,
+      "paired_differences": [
+        0.00010847548968891433,
+        9.871926531688076e-05,
+        3.052001632223656e-05,
+        1.2372614957872517e-05,
+        -1.3099294684440618e-06,
+        0.00013365751525688666,
+        0.00023153733043244608,
+        1.0346553468171195e-05
+      ],
+      "worse_seeds": 7,
+      "relative_change": 0.26480418159384445
+    }
+  ],
+  "qwipii": {
+    "brute": {
+      "n": 128,
+      "solved": 128,
+      "expansions": 25.171875,
+      "ms": 1.27027278125
+    },
+    "hand_quotient": {
+      "n": 128,
+      "solved": 128,
+      "expansions": 21.3046875,
+      "ms": 18.589255242187498
+    },
+    "learned": {
+      "n": 128,
+      "solved": 128,
+      "expansions": 21.3046875,
+      "ms": 16.98586196875
+    },
+    "no_goal_feature": {
+      "n": 128,
+      "solved": 128,
+      "expansions": 23.84375,
+      "ms": 9.85580659375
+    },
+    "no_transition_feature": {
+      "n": 128,
+      "solved": 128,
+      "expansions": 21.3046875,
+      "ms": 16.4099261015625
+    },
+    "random": {
+      "n": 128,
+      "solved": 128,
+      "expansions": 23.9453125,
+      "ms": 9.009245125
+    },
+    "ranking_only": {
+      "n": 128,
+      "solved": 128,
+      "expansions": 4.0703125,
+      "ms": 0.4242360078125
+    },
+    "longer_paths": {
+      "brute": 0,
+      "hand_quotient": 0,
+      "learned": 0,
+      "no_goal_feature": 0,
+      "no_transition_feature": 0,
+      "random": 0,
+      "ranking_only": 16
+    }
+  },
+  "scope": "Recalculation from preserved rows and full claim-index hash verification; not new training or independent reproduction."
+}

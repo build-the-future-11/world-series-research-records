@@ -1,0 +1,39 @@
+{
+  "report_words": 10126,
+  "absolute_local_links": 3,
+  "missing_link_targets": [],
+  "tracked_and_untracked_git_status_unchanged": true,
+  "fresh_tests": {
+    "count": 114,
+    "exit_code": 0,
+    "existing_warnings": 1
+  },
+  "wfim_replay": {
+    "models": 80,
+    "predictions": 40640,
+    "exit_code": 0
+  },
+  "pdf_pages_visually_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "paper_inputs_unchanged": true,
+  "not_performed": [
+    "full nine-study retraining",
+    "independent-person reproduction",
+    "all historical environment fresh installations",
+    "publication",
+    "manuscript/source repairs"
+  ],
+  "verification_commands": [
+    "rtk proxy python3 publication_audit/20260925/verify_evidence.py",
+    "rtk proxy env OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 MKL_NUM_THREADS=1 PYTHONDONTWRITEBYTECODE=1 world-series/.venv/bin/python publication_audit/20260925/check_math.py",
+    ".venv/bin/python -m pytest tests -q -p no:cacheprovider --basetemp \"$TMPDIR/pytest\"",
+    ".venv/bin/python scripts/closure/analyze_wfim_learning.py --root campaigns/wfim-coordinate-development-v1 --output ../publication_audit/20260925/receipts/wfim_prediction_replay.json"
+  ],
+  "audit_infrastructure_attempt": "An initial inline mathematical-check shell quoting error exited unsuccessfully and created an empty scratch file named 0. It was preserved in the audit receipts and the check was rerun successfully from check_math.py. No research artifact changed."
+}

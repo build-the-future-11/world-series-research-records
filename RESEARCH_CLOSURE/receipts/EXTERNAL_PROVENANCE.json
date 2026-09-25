@@ -1,0 +1,8 @@
+{
+  "vendor_repository": "world-series/external/celo2",
+  "head": "bb7fd561872f427ce47f97bc97992de009d5b313",
+  "classification": "External comparator; not a tenth World Series project",
+  "data_manifest": "world-series/data/optdigits/provenance.json",
+  "comparator_manifest": "world-series/docs/execution/development-v2/CELO2_PROVENANCE.json",
+  "external_tree_excluded_from_recovery_inventory": "Vendored code/environment, not original project; reviewed source preserved under provenance/celo2-source"
+}

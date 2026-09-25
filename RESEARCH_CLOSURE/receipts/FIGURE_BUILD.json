@@ -1,0 +1,15 @@
+{
+  "initial_attempt": {
+    "python": "bundled workspace Python",
+    "exit_code": 1,
+    "error": "ModuleNotFoundError: matplotlib"
+  },
+  "successful_retry": {
+    "python": "world-series/.venv/bin/python",
+    "PYTHONPATH": "world-series/.work-tmp/plotting-deps",
+    "script": "scripts/closure/plot_wfim.py",
+    "exit_code": 0
+  },
+  "source_receipt": "world-series/paper/figures/wfim-paired-seeds.json",
+  "scope": "Existing raw predictions plotted; no new outcomes"
+}

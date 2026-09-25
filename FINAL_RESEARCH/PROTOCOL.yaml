@@ -1,0 +1,600 @@
+{
+  "schema_version": 1,
+  "scope": "Finite verification and closure of existing World Series evidence",
+  "historical_results_already_observed": true,
+  "new_confirmatory_experiments": false,
+  "confirmation": "DRAFT_NOT_AUTHORIZED",
+  "supersedes_existing_protocols": false,
+  "seeds_splits_metrics_models_baselines_ablations_ood": "Verbatim per-study contracts below; no outcome-dependent modifications.",
+  "temporal_cutoff": "Initial source manifest snapshot; historical acquisition/protocol dates retained in original files.",
+  "stopping_rule": "Verify existing outputs, complete interrupted exact replay in fresh outputs, reconcile all nine identities; do not retune negative results.",
+  "compute": {
+    "machine_memory_gib": 16,
+    "numerical_workers": 1,
+    "device": "CPU",
+    "threads": 1,
+    "timeout_per_verification_seconds": 1800,
+    "scratch": "world-series/.work-tmp/finite-closure"
+  },
+  "success_criteria": {
+    "engineering": "Declared checks pass and original raw artifacts stay unchanged.",
+    "science": "Original per-study outcomes retained; no claim beyond executed design.",
+    "confirmation": "Requires independently frozen evaluator/protocol; absent."
+  },
+  "study_contracts": [
+    {
+      "project": "qlearn",
+      "artifact": {
+        "path": "world-series/configs/natural-digits-v1.json",
+        "sha256": "d90b65c6a95aa23e90b6842b20a32eaa47fa4f8b9aea7c0500ab4e04a2a32e45"
+      },
+      "original_contract": {
+        "version": "natural-digits-v1",
+        "cells": [
+          {
+            "project": "qlearn",
+            "experiment": "natural-digits-v1",
+            "split": "dev",
+            "device": "cpu",
+            "seed": 101,
+            "budget": {
+              "max_steps": 20000,
+              "max_candidate_evals": 100,
+              "max_wall_seconds": 900,
+              "max_artifact_bytes": 100000000
+            },
+            "params": {
+              "study": "natural_digits_v1",
+              "data_root": "data/optdigits",
+              "width": 24,
+              "hidden": 12,
+              "examples": 48,
+              "rates": [
+                0.001,
+                0.01,
+                0.03,
+                0.1
+              ],
+              "outer_rates": [
+                0.0001,
+                0.0003,
+                0.001,
+                0.003
+              ],
+              "train_steps": 8,
+              "meta_steps": 4,
+              "horizons": [
+                8,
+                16,
+                32
+              ]
+            }
+          },
+          {
+            "project": "qlearn",
+            "experiment": "natural-digits-v1",
+            "split": "dev",
+            "device": "cpu",
+            "seed": 211,
+            "budget": {
+              "max_steps": 20000,
+              "max_candidate_evals": 100,
+              "max_wall_seconds": 900,
+              "max_artifact_bytes": 100000000
+            },
+            "params": {
+              "study": "natural_digits_v1",
+              "data_root": "data/optdigits",
+              "width": 24,
+              "hidden": 12,
+              "examples": 48,
+              "rates": [
+                0.001,
+                0.01,
+                0.03,
+                0.1
+              ],
+              "outer_rates": [
+                0.0001,
+                0.0003,
+                0.001,
+                0.003
+              ],
+              "train_steps": 8,
+              "meta_steps": 4,
+              "horizons": [
+                8,
+                16,
+                32
+              ]
+            }
+          },
+          {
+            "project": "qlearn",
+            "experiment": "natural-digits-v1",
+            "split": "dev",
+            "device": "cpu",
+            "seed": 307,
+            "budget": {
+              "max_steps": 20000,
+              "max_candidate_evals": 100,
+              "max_wall_seconds": 900,
+              "max_artifact_bytes": 100000000
+            },
+            "params": {
+              "study": "natural_digits_v1",
+              "data_root": "data/optdigits",
+              "width": 24,
+              "hidden": 12,
+              "examples": 48,
+              "rates": [
+                0.001,
+                0.01,
+                0.03,
+                0.1
+              ],
+              "outer_rates": [
+                0.0001,
+                0.0003,
+                0.001,
+                0.003
+              ],
+              "train_steps": 8,
+              "meta_steps": 4,
+              "horizons": [
+                8,
+                16,
+                32
+              ]
+            }
+          },
+          {
+            "project": "qlearn",
+            "experiment": "natural-digits-v1",
+            "split": "dev",
+            "device": "cpu",
+            "seed": 401,
+            "budget": {
+              "max_steps": 20000,
+              "max_candidate_evals": 100,
+              "max_wall_seconds": 900,
+              "max_artifact_bytes": 100000000
+            },
+            "params": {
+              "study": "natural_digits_v1",
+              "data_root": "data/optdigits",
+              "width": 24,
+              "hidden": 12,
+              "examples": 48,
+              "rates": [
+                0.001,
+                0.01,
+                0.03,
+                0.1
+              ],
+              "outer_rates": [
+                0.0001,
+                0.0003,
+                0.001,
+                0.003
+              ],
+              "train_steps": 8,
+              "meta_steps": 4,
+              "horizons": [
+                8,
+                16,
+                32
+              ]
+            }
+          },
+          {
+            "project": "qlearn",
+            "experiment": "natural-digits-v1",
+            "split": "dev",
+            "device": "cpu",
+            "seed": 503,
+            "budget": {
+              "max_steps": 20000,
+              "max_candidate_evals": 100,
+              "max_wall_seconds": 900,
+              "max_artifact_bytes": 100000000
+            },
+            "params": {
+              "study": "natural_digits_v1",
+              "data_root": "data/optdigits",
+              "width": 24,
+              "hidden": 12,
+              "examples": 48,
+              "rates": [
+                0.001,
+                0.01,
+                0.03,
+                0.1
+              ],
+              "outer_rates": [
+                0.0001,
+                0.0003,
+                0.001,
+                0.003
+              ],
+              "train_steps": 8,
+              "meta_steps": 4,
+              "horizons": [
+                8,
+                16,
+                32
+              ]
+            }
+          },
+          {
+            "project": "qlearn",
+            "experiment": "natural-digits-v1",
+            "split": "dev",
+            "device": "cpu",
+            "seed": 601,
+            "budget": {
+              "max_steps": 20000,
+              "max_candidate_evals": 100,
+              "max_wall_seconds": 900,
+              "max_artifact_bytes": 100000000
+            },
+            "params": {
+              "study": "natural_digits_v1",
+              "data_root": "data/optdigits",
+              "width": 24,
+              "hidden": 12,
+              "examples": 48,
+              "rates": [
+                0.001,
+                0.01,
+                0.03,
+                0.1
+              ],
+              "outer_rates": [
+                0.0001,
+                0.0003,
+                0.001,
+                0.003
+              ],
+              "train_steps": 8,
+              "meta_steps": 4,
+              "horizons": [
+                8,
+                16,
+                32
+              ]
+            }
+          },
+          {
+            "project": "qlearn",
+            "experiment": "natural-digits-v1",
+            "split": "dev",
+            "device": "cpu",
+            "seed": 701,
+            "budget": {
+              "max_steps": 20000,
+              "max_candidate_evals": 100,
+              "max_wall_seconds": 900,
+              "max_artifact_bytes": 100000000
+            },
+            "params": {
+              "study": "natural_digits_v1",
+              "data_root": "data/optdigits",
+              "width": 24,
+              "hidden": 12,
+              "examples": 48,
+              "rates": [
+                0.001,
+                0.01,
+                0.03,
+                0.1
+              ],
+              "outer_rates": [
+                0.0001,
+                0.0003,
+                0.001,
+                0.003
+              ],
+              "train_steps": 8,
+              "meta_steps": 4,
+              "horizons": [
+                8,
+                16,
+                32
+              ]
+            }
+          },
+          {
+            "project": "qlearn",
+            "experiment": "natural-digits-v1",
+            "split": "dev",
+            "device": "cpu",
+            "seed": 809,
+            "budget": {
+              "max_steps": 20000,
+              "max_candidate_evals": 100,
+              "max_wall_seconds": 900,
+              "max_artifact_bytes": 100000000
+            },
+            "params": {
+              "study": "natural_digits_v1",
+              "data_root": "data/optdigits",
+              "width": 24,
+              "hidden": 12,
+              "examples": 48,
+              "rates": [
+                0.001,
+                0.01,
+                0.03,
+                0.1
+              ],
+              "outer_rates": [
+                0.0001,
+                0.0003,
+                0.001,
+                0.003
+              ],
+              "train_steps": 8,
+              "meta_steps": 4,
+              "horizons": [
+                8,
+                16,
+                32
+              ]
+            }
+          }
+        ]
+      },
+      "interpretation": "Historical development contract; not retrospectively preregistered confirmation."
+    },
+    {
+      "project": "qapen",
+      "artifact": {
+        "path": "world-series/docs/closure/QAPEN_PROTOCOL.md",
+        "sha256": "e007da489af8be02705ce2c738e2c5b486bf4a85ddd867e85ab629a9521cf535"
+      },
+      "original_contract": "# Q-APEN causal lifecycle development protocol v1\n\nThis is a separately versioned implementation and development experiment. It\ndoes not modify historical PEN, QAPENModel, or development-v2 outcomes. Source,\nscript and protocol hashes are frozen in each receipt before execution.\n\nPrimary development question: does the implemented lifecycle plus delayed-utility\nmemory improve mean prequential Gaussian NLL over the strongest declared simple\ncontrol within a common 2,000,000 scalar-operation proxy cap per stream? Scores\nuse a moment-matched Gaussian, not the exact multimodal mixture density. Lower is\nbetter. Required streams contain 320 predictions. Exhausting the cap makes the\nrequired endpoint incomplete; no prefix-only or survivor-only mean replaces it.\nFull elapsed time, proxy operations, parameter/storage counts and mechanism\nevents accompany NLL. This cap does not imply equal actual computation or time.\nNo practically meaningful confirmation margin or powered generalization claim\nis inferred from these development results.\n\nIndependent generated stream seeds: 1009, 1103, 1201, 1301, 1409, 1511, 1601,\n1709. Conditions: no-shift, rare-return, long-gap and delayed-cue schedules,\ncrossed with observation noise 0.1 and 0.6. Each seed supplies independently\nsampled stable AR coefficients and offsets; shared draws pair methods. Regime\ntruth is available only to evaluation. The input contains the previous observed\nvalue and a public noisy cue; in delayed-cue conditions it is revealed four\nsteps before a switch. No future target or regime label is passed to learners.\n\nA codebook with eight centers is fitted once on separate training streams\nseeds 31, 37, 41 and 43. Raw context and continuous quantization residual remain\navailable alongside the one-hot code. The codebook is frozen during evaluation.\nEach expert is a linear probabilistic PyTorch module with Adam state and a\npositive variance floor. This is a finite linear-Gaussian lifecycle candidate,\nnot a full latent neural world model or planning system.\n\nLifecycle: sustained three-event surprise triggers birth after cooldown 24;\nbounded replay warmup precedes eight subsequent prediction scores. Admission\nrequires positive prospective NLL gain against the existing ensemble. Stable\nidentities that fail warmup remain PRUNED and cannot bypass admission by revival.\nStable\nUUID identities retain module and optimizer state through sleep/revival. Caps:\nfour active experts, sixteen total identities, sixty-four engrams, replay 32.\nAn engram stores context/code, observed value, variance, expert identity, write\ntime, access counts and utility measured only on later retrieved predictions.\nConsolidation evicts the lowest delayed mean utility, breaking ties by age.\n\nEight controls/candidates: lifecycle+memory, lifecycle without memory, fixed\nfour-expert+memory, fixed four-expert without memory, single-expert+memory,\nlifecycle with random retrieval, lifecycle with most-recent retrieval, and\nrolling ridge regression. Routing information, targets and prediction schedule\nare shared. Fixed ensemble and single expert have deliberately different\ncapacity; full costs are reported and no parameter-matched claim is made.\n\nReport all/rare/ordinary/first-eight-after-switch NLL, nominal 95% coverage,\nexpert counts, spawn/sleep/revival, memory utility/accesses, costs and failures.\nUse paired seed means over all declared conditions; retain per-condition rows.\nBootstrap seeds 10,000 times with seed 240925 for descriptive paired intervals,\nwithout treating timesteps as independent units. These intervals describe this\ngenerator collection; there is no external holdout, novelty verdict or required\npractical-equivalence conclusion. No hyperparameter selection is performed.\n",
+      "interpretation": "Historical development contract; not retrospectively preregistered confirmation."
+    },
+    {
+      "project": "qwipii",
+      "artifact": {
+        "path": "world-series/campaigns/qwipii-learned-development-v1/protocol.json",
+        "sha256": "93fcc19fc608e5e99c0a3b25171ea9709da82842b2687290a41b5e511b992ddd"
+      },
+      "original_contract": {
+        "confirmation": "DRAFT_NOT_AUTHORIZED",
+        "costs": "per-query probe enumeration, scoring, verification, certificate revalidation, orbit construction and search; training/selection measured separately",
+        "failure": "retain failed rows; do not impute timing advantage or change caps; no population significance claim",
+        "held": [
+          [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          [
+            0,
+            1,
+            2,
+            0,
+            1,
+            2
+          ],
+          [
+            0,
+            0,
+            1,
+            1,
+            2,
+            2
+          ]
+        ],
+        "max_expansions": 1000,
+        "max_states": 1000,
+        "primary": "paired end-to-end elapsed time and solved fraction versus random proposal ordering",
+        "probes": 3,
+        "ridge_grid": [
+          0.001,
+          0.01,
+          0.1,
+          1.0
+        ],
+        "scope": "development ring-size transfer; four fixed held goal patterns, not new puzzle families or independent confirmation",
+        "seeds": [
+          2801,
+          2803,
+          2819,
+          2833,
+          2837,
+          2843,
+          2851,
+          2857
+        ],
+        "selection": [
+          [
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            0,
+            1,
+            1,
+            2
+          ]
+        ],
+        "selection_rule": "minimum proposal utility MSE; ties lower ridge",
+        "source": {
+          "scripts/closure/qwipii_discovery_study.py": "cd4a9f53ab59ed6d11db3e08ed99519765f10b266b6cd36ffebf54e473a01ddb",
+          "src/world_series/qwipii/__init__.py": "4d24580fffec88bd0924473e377370b41eb18d89b6079b750fc13ab72d483f82",
+          "src/world_series/qwipii/adapter.py": "60edb773537f144763cbe196a187c9f52dde49772602707ff9bed2fa304f45da",
+          "src/world_series/qwipii/canonicalize.py": "003cdb060e6f4223954cae75573b06242613de43932ca787da3727f7cdf0f8df",
+          "src/world_series/qwipii/certificates.py": "cfe3f492399e1ad0f08b0571a8148a1ed17154f30a72a46d6000137c59bf28fb",
+          "src/world_series/qwipii/discovery.py": "d1e10f5b8c0dbea1bfa01d1769054fd5f552715788cd30ab260f2915ddb196ce",
+          "src/world_series/qwipii/domains.py": "4688e8f961141ba8cf71e15d421d77fbd00e2b3fe911d5605e4b3871aeff399d",
+          "src/world_series/qwipii/evaluate.py": "d9029f3be857e5ec86b4f1e22696623b4c07e5d1930eee5899c4c1566f2a69a8",
+          "src/world_series/qwipii/group_actions.py": "62e193ed102c9ed093206a537ddb7bbb688f646aa1161078644e5218d31f2c65",
+          "src/world_series/qwipii/learned_discovery.py": "7c4ca7406cc1353945a218e535a1db63b359f747d5a2726fdce7eb7d20707508",
+          "src/world_series/qwipii/projective.py": "415c6ac144bfc5a7a5c9595886ad5772a064f3cd75782e31849b2ea500d23252",
+          "src/world_series/qwipii/search.py": "50b148f6119db4cf43332d85bb025e5252ab9a10916091395f9c89ae6eb5c3ca",
+          "src/world_series/qwipii/verifier.py": "0d27325aec2934f766cc67d6dfd6aceb40413015c95bdd106c966af713e780b7"
+        },
+        "starts_per_goal": 4,
+        "train": [
+          [
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            1,
+            2
+          ],
+          [
+            0,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            1,
+            0,
+            1
+          ],
+          [
+            0,
+            0,
+            1,
+            2
+          ]
+        ],
+        "verification_budget": 4
+      },
+      "interpretation": "Historical development contract; not retrospectively preregistered confirmation."
+    },
+    {
+      "project": "wcode",
+      "artifact": {
+        "path": "world-series/docs/closure/WCODE_PROTOCOL.md",
+        "sha256": "e949aa67e12f1824a35052c62d112998d162fde487babd468e02a734b09fd8b3"
+      },
+      "original_contract": "# Trained WCODE development protocol v1\n\nThis study evaluates the originally proposed task-conditioned relational program\nscorer in a finite integer DSL. It does not certify novelty, unrestricted coding,\ncompiler optimization, or complexity-class claims. Earlier untrained rankers and\ntheir results are preserved. Numerical source, script, protocol, dataset and\ncheckpoint hashes accompany new receipts.\n\n## Frozen dataset and roles\n\nThe enumerator contains quadratic polynomials, integer floor/modulo compositions,\ncubics and threshold conditionals, all represented by the existing AST whitelist.\nFinite semantics are the 17 integer inputs -8 through 8. Semantically equivalent\ntargets are merged using their full output signature, choosing the smallest AST\nthen lexicographic representation. This defines finite-domain equivalence only.\nThere are 331 unique candidates: 171 training families, 49 selection families,\n51 evaluation families and 60 held composition families (cubics/conditionals).\nThe exact signatures and roles are saved before training. The candidate pool is\nidentical for every method and contains every target, making exhaustive recovery\npossible. Four public inputs are sampled without replacement; the remaining 13\nare verifier-only. No task changes roles between training seeds.\n\nStructural candidate features include operator, literal value and depth. The\nranker receives only these AST features and public input/output pairs. It cannot\naccess semantic signatures or verifier answers. Dataset construction does execute\nthe finite grammar for deduplication and labels; that curator cost is recorded\nseparately and is not free candidate evaluation during search. Evaluation always\nuses fresh charged interpretation, never the curator's output cache.\n\n## Models and training\n\nSix models share exactly the same width (24), three message rounds, trainable\nparameter count and optimization schedule. The relational model has distinct\nfirst/second/third-child-to-parent, parent-to-child and forward/backward sibling\nweights. It combines root and mean pooling with a permutation-invariant learned\npublic-example encoder. Its pooling uses the AST hierarchy, not a separately\nlearned coarsening algorithm. Controls: prefix-token neighborhood encoding;\npointwise encoding; flat graph with edge types removed. Ablations remove root\npooling or task conditioning. Disabled information paths reduce effective\ncapacity in ablations; equal parameter counts do not assert equal function classes.\n\nTraining seeds: 2017, 2027, 2039, 2053, 2063, 2081, 2087, 2099. Each receives 80\nAdam steps, learning rate 0.003, batch size 32, gradient norm cap 5. Targets are\nsampled from training families with new public subsets. Cross-entropy labels the\ncorrect canonical candidate, retaining every incorrect candidate as a negative.\nEvery sampled public input, target index and loss is saved. There is no target-\nconditioned candidate proposal and no success-only filtering of traces.\n\nUnfiltered uniform-search traces at cap 24 are also saved for all 171 training\nfamilies, including exhausted searches and false fits. The training objective is\nsupervised canonical-candidate classification, not policy-gradient learning from\nthose trace rewards; all incorrect pool members contribute to the softmax loss.\n\nSelect among checkpoints at steps 20, 40 and 80 by mean exact-target rank on all\n49 selection families with fixed public examples. Ties choose the earlier step.\nNo evaluation-family labels select the checkpoint. Full-pool classification is\na training surrogate; the actual endpoint is verified synthesis completion.\n\n## Search and endpoints\n\nMethods use candidate caps 8, 24, 64 and 331. Add fixed hash-order enumeration and\nAST-length order. Rank all candidates once using structural embeddings and the\ntask's public examples. Search stops at the first public-example fit; an external\nfinite verifier checks the remaining 13 inputs exactly once. A false public fit\nis failure and is not used to rerank or try again. Exhausted caps also fail.\nStore visited IDs, fuel, interpreter calls, verifier calls, selected candidate,\npublic-fit status, full-domain correctness and times for every attempted task.\n\nPrimary descriptive endpoint: verified completion at cap 24, reported separately\nfor evaluation-family and held-composition partitions. Report all other caps and\nfailure types. Aggregate repeated example/training seeds within each semantic\nfamily before descriptive paired family bootstrapping (10,000 draws, seed 240926).\nDo not treat repeated examples as independent new families. Intervals condition\non this finite grammar; they are not powered population or novelty claims. No\nequivalence margin is fabricated after outcomes. All comparisons are exploratory.\n\n## Cost and stopping rules\n\nOne CPU worker, float32 model computations, explicit Python interpreter fuel.\nReport dataset construction/graph packing, complete training/selection, frozen\ncandidate embedding, per-task scoring, public interpretation and held verification\nseparately. Charge candidate embedding as a shared cache over the explicitly\nreported evaluation tasks and disclose cold-start cost/bytes. Uniform/length\ncontrols have no training cost. Candidate budget alone is not equal computation.\nPreserve failed models/cells; missing required cells invalidate the corresponding\nfull aggregate. Profile one training seed first with the full 80-step schedule;\nuse a separate immutable output directory. Full-study wall ceiling: 1,800 seconds.\nNo expensive launch follows an over-ceiling profile without a revised declared\nresource plan. Confirmation remains DRAFT_NOT_AUTHORIZED.\n",
+      "interpretation": "Historical development contract; not retrospectively preregistered confirmation."
+    },
+    {
+      "project": "wfim",
+      "artifact": {
+        "path": "world-series/campaigns/wfim-coordinate-development-v1/protocol.json",
+        "sha256": "0621db0ca2b5187afab4df7a2b6cdf87ac5ede3e75541cec391c1aa1ae52de77"
+      },
+      "original_contract": {
+        "caveat": "common byte cap and equal decoder/representation dimension; unequal encoder capacity disclosed",
+        "checkpoints": [
+          50,
+          100,
+          150
+        ],
+        "confirmation": "DRAFT_NOT_AUTHORIZED",
+        "cost": "training selection and inference measured; payload and actual checkpoint bytes retained",
+        "decoder_width": 32,
+        "degree": 6,
+        "kinds": [
+          "learned_coordinates",
+          "identity_coordinates",
+          "vector",
+          "bilinear",
+          "binding"
+        ],
+        "optimizer": "Adam lr 0.01, full batch, float64 CPU",
+        "primary": "held-template and held-length MSE; finite exhaustive binary words, not independent real datasets",
+        "seeds": [
+          3109,
+          3119,
+          3121,
+          3137,
+          3163,
+          3167,
+          3169,
+          3181
+        ],
+        "source": {
+          "/Volumes/PRO-BLADE/World-Series/world-series/scripts/closure/wfim_learning_study.py": "a88fb4d178e139c52ac78f8b95f58899bc83ccb5a944ceb0e3534fc302c10f6c",
+          "src/world_series/wfim/__init__.py": "5077c94b4d2c3b572ad5327f007b92e127d17bdd123e5ab9e8e2b80da174b511",
+          "src/world_series/wfim/adapter.py": "a938ffe330daf1bfe2ae6338c5135e6880704c9cb2dda54e16b2c942089225e7",
+          "src/world_series/wfim/algebra.py": "4628c9d0845d111c39d7b56046d00c57a9b1f353379cde20afb7be61ac87cca6",
+          "src/world_series/wfim/coordinates.py": "446ba01694fe3b5aff707c66145aec446e059cf6baab4b5011ff41a0b318ae8d",
+          "src/world_series/wfim/evaluate.py": "9f0e9b14da1fec231cd7c56dc86ea3ac5f858201313fc7fe41bfaa02f306d0c0",
+          "src/world_series/wfim/learning.py": "b46a486dd71baa0dffd543bae96e0398e1e69615e6b8f422ba84122e95d09a17",
+          "src/world_series/wfim/transport.py": "8478d0cc42f00e0f2a95e0e3e3125942c089c0aae9e93055038b264d6554b35c"
+        },
+        "split": "length 2..6, prefix 001 or 110 held templates; other words sha256 first byte modulo 5 zero selection; length 7..8 held length",
+        "steps": 150,
+        "storage_cap": 1048576,
+        "tasks": [
+          "frequency of contiguous 001",
+          "fraction of ones (order-insensitive control)"
+        ]
+      },
+      "interpretation": "Historical development contract; not retrospectively preregistered confirmation."
+    },
+    {
+      "project": "wft",
+      "artifact": {
+        "path": "world-series/docs/closure/WFT_PROTOCOL.md",
+        "sha256": "75b4a4d8ae6fd54938f7013589ece38e633d0b1ce35d72265591dca10c6a35b0"
+      },
+      "original_contract": "# WFT constraint and frozen-transfer development protocol v1\n\nState: DRAFT_NOT_AUTHORIZED. This evaluates the originally proposed symmetry\nand cross-resolution regularization of a learned positive graph Laplacian. It\ndoes not replace earlier mismatched-target repairs or claim universal transforms,\nFFT complexity, continuous PDE convergence, novelty or independent confirmation.\n\n## Physical and information contract\n\nEach graph has m groups. A fine graph has two nodes in every group and unit\nnode mass. Adjacent groups have four edges of weight w/2; each pair has a\npositive internal edge. A coarse graph has one node per group, mass two, and\nadjacent edge weight 2w. Connectivity is a cycle or path. All connectivity,\npositions, masses, the averaging restriction R and reflection action are public.\nHidden weights are not supplied to the learned or fixed-geometry methods.\n\nLet P duplicate a coarse value across its two fine nodes; R=P^T/2. The generator\nsatisfies Lc=P^T Lf P and Ac=Mc^-1 Lc, Af=Mf^-1 Lf. Equal cross-group degrees\ngive R Af=Ac R exactly, hence R exp(-t Af)=exp(-t Ac) R. This is an equitable\nfinite-graph coarsening construction. Larger graphs sample the same coefficient\nfield at more group positions; no continuum-discretization convergence is claimed.\n\nThe generator's log-weight field is a constant plus cosine modes at frequencies\none and two. Coefficients vary independently across physical-instance seeds.\nReflection is therefore valid; a one-group cyclic shift generally does not\ncommute with the weighted generator despite preserving cycle topology. That\nshift is used only as the labeled wrong-symmetry control. A topology automorphism\nalone is insufficient to certify symmetry of an unknown weighted operator.\n\nEvery learned method has independent fine/coarse five-coefficient fields\n(constant, sine/cosine at frequencies one and two), plus an internal-edge\nparameter: 11 trainable parameters total. Softplus enforces positive weights.\nIndependent fine/coarse fields mean consistency is not tautological. Public\nposition features and the parametric smoothness bias are identical in all learned\ncontrols. Scale is identified by supervised transitions at known time 0.15;\nthere is no zero-operator smoothness objective or hidden trace normalization.\n\n## Training and ablations\n\nPhysical-instance seeds: 2203, 2213, 2221, 2237, 2243, 2251, 2267, 2269.\nTrain only on the cycle with 16 groups (32 fine nodes, 16 coarse nodes). Both\nlevels receive 4 or 16 observed input/output signals. Observation noise 0 or\n0.1 is independently crossed with sample count. Inputs are independent normal\nsignals smoothed by the true diffusion for time 0.4; the same observed arrays\nare available to every method. Noise affects transition outputs, not the public\ngraph geometry. The teacher is used only by the data generator and oracle.\n\nFive identically parameterized learned methods: no constraints, reflection only,\ncross-resolution only, both, and wrong-symmetry only. Optimize 100 Adam steps at\nlearning rate 0.03, gradient cap 10; no per-method hyperparameter search. Primary\nloss is mean normalized squared transition error over both observed levels.\nEach enabled constraint has fixed coefficient 0.1. Symmetry uses squared action\ncommutation error normalized by node count; consistency uses ||R Af-Ac R||^2/m.\nSave every loss component and final parameters. A fixed unit-weight geometry\noperator and a explicitly privileged true-operator oracle complete prediction\ncontrols. No eigendecomposition is differentiated through in training.\n\n## Frozen evaluation\n\nAfter fitting, weights are frozen. Evaluate independent clean inputs on groups\n16, 32 and 64, for both cycle and path connectivity and both levels. The same\nparameter tensors generate each new operator; there is no per-size or held-graph\nrefit. Primary descriptive endpoint is mean normalized mass-weighted prediction\nerror on the previously unseen group counts 32/64, averaged over both topologies\nand levels. Group16 cycle is a held-signal condition; group16 path is topology\ntransfer. Report them separately instead of counting them all as new domains.\n\nEach condition supplies 16 held signals. They are repeated observations within\none physical-instance seed, not independent datasets. Average conditions within\nseed, then report paired differences for all controls and descriptive bootstrap\nintervals from 10,000 seed resamples, seed 240927. These eight instances and\nfixed graph constructions do not establish powered equivalence or general\ngraph-distribution superiority. Keep all required cells and all failures.\n\n## Transform and cost diagnostics\n\nAfter freezing, compute mass-weighted eigenspectra with dense allocation capped\nat 128 nodes. Verify PSD, null mode, row sums, residuals, Parseval and complete-\nbasis reconstruction as numerical contracts, never as learned efficacy.\nNominal compression rank is min(5, training signal count). If a repeated cluster\ncrosses the boundary, retain the whole cluster and report actual rank. This can\nchange storage, so compression is descriptive rather than a fixed-rank claim.\n\nOn the training-size cycle only, compare compression against uncentered PCA\nfitted to observed training inputs and a seeded random orthogonal projection.\nNeither baseline is relabeled as a transferable diffusion predictor. Fixed\ngeometry and oracle spectra are included at all sizes. Report setup, training,\nconstraint, matrix-exponential, eigensolver and reuse costs, parameter/storage\nbytes and actual ranks. Dense eigensolvers are not an FFT-like speed claim.\n\nOne float64 CPU worker. Profile one physical-instance/sample/noise condition with\nall five learned models and both fixed controls. Full study has 32 such fitting\nconditions, 160 learned fits, and 2,688 evaluation rows. Full wall ceiling:\n1,800 seconds. Source/config/protocol hashes precede outcomes; failures and\ninterruptions get preserved receipts. No new training is justified solely by\nan unfavorable result.\n",
+      "interpretation": "Historical development contract; not retrospectively preregistered confirmation."
+    },
+    {
+      "project": "wpinn",
+      "artifact": {
+        "path": "world-series/docs/closure/WPINN_PROTOCOL.md",
+        "sha256": "1fb61855e7d10b7b383407a096736e1c16cc9674235b1103283fe90e64e7ae59"
+      },
+      "original_contract": "# Structured oscillator development study v1\n\nStatus: development, DRAFT_NOT_AUTHORIZED for confirmation. Freeze source before\nrunning. No external independent replication or general PDE claim. The original\n288 fits, 17 failures, and retrospective diagnostics remain separate.\n\n## Data and decision rule\n\nEight generator seeds: 2503, 2521, 2531, 2539, 2543, 2549, 2551, 2557.\nPhysical laws (k,c): (1,0), (2,.3), (4,.8). Each physical law has five observation\nconditions: 81 clean samples; 81 samples/noise .1; 41 samples/noise .1;\n81 nominal samples/30% interior missing/noise .1; and 81 samples/noise .1 with\ntraining and selection initial amplitudes scaled to .1 (low excitation).\nTime horizon [0,5]. Noise is additive iid Gaussian in q and v. Endpoints retained.\nTwo complete training trajectories, one complete selection trajectory, and two\nclean evaluation trajectories with fresh initial conditions. Whole trajectory\nIDs and arrays saved; no pointwise split. Low-excitation evaluation uses ordinary\namplitude, explicitly testing extrapolation. No clean training states, true\nparameters, or true noise level are passed into fit/smoothing functions.\n\nPrimary: all-term held-initial-condition rollout MSE. Report both mean among\nsuccessful integrations and failure count; no finite aggregate performance\nclaim if a method has failures. Two held trajectories first averaged within\ncell, 15 law/condition cells within seed, then eight seeds. No condition cherry\npicking. Support recovery and coefficient error secondary; cannot rescue the\nprimary. True held initial state is supplied equally to every rollout method.\n\n## Methods and information budgets\n\nAll discovered models use the same ten degree<=3 polynomial acceleration terms\n1,q,v,q2,qv,v2,q3,q2v,qv2,v3 with q'=v. Internal STLS uses RMS column scaling,\neight support iterations and refits; threshold candidates 0,.02,.1. Select by\nrollout MSE against the one noisy selection trajectory, initialized from its\nobserved first state. Failed selection rollouts score infinity; if all fail,\nretain the first threshold by declared order and report selection failure.\nAll candidates and selection receipts saved; no evaluation-dependent selection.\n\nMethods: raw derivative STLS; raw weak STLS; spline weak STLS; neural weak STLS;\nneural derivative STLS (weak-form ablation); neural weak odd-symmetry STLS;\nneural weak passive STLS; neural weak wrong-conservation STLS; neural weak dense\nleast squares (sparsity ablation); known-support derivative fit (privileged\nq/v support); official PySINDy derivative STLSQ; official PySINDy weak STLSQ.\nDense and known-support methods have threshold0 only. Official thresholds use\nthe package's physical coefficients without normalization; the three-value\ngrid has the same trial count but a different threshold coordinate system,\nexplicitly not identical regularization strength. Official weak designs use\n32 seeded subdomains per trajectory, halfwidth1.25 and polynomial degree3;\nthe same generated design is reused for all thresholds.\n\nThe internal compact weak form uses 16 analytic polynomial bumps, halfwidth1.25\nand irregular-grid trapezoid quadrature. Spline strength1 uses a robust observed\nsecond-difference noise estimate (heuristic on irregular grids). Each neural\nfield has two width32 tanh layers, two outputs, float64 CPU; 400 Adam updates\nat .01 on observation MSE only. Fixed budget, no early stopping or held labels.\nSave every training loss and model state; each smoother reused across methods.\nThis is a learned observation field plus sparse discovery, not a jointly\nphysics-trained neural field. That architectural distinction stays explicit.\n\nOdd symmetry removes even-degree terms. Passive structure additionally assumes\na valid quadratic energy certificate: q coefficient <=0 and v,q2v,v3 <=0;\nall other coefficients zero. It is extra physical knowledge, not an\ninformation-matched unconstrained model. Known support is separately labeled.\nWrong conservation retains only q and is intentionally false for damped laws.\n\n## Bounds, provenance and evaluation\n\nOne numerical worker, CPU threads1, at most120 cells, 240 neural observation\nfits, 96,000 Adam updates, at most7,680 selection/evaluation integrations.\nRK45 rtol1e-8, atol1e-10, 6000 RHS calls, state magnitude1e6. Preserve every\nfailure and full coefficients; never silently clip damping or nonlinear terms.\nEach cell saves source identity, input arrays, all model candidates and timing;\nabort on unexpected exceptions with a distinct failure receipt. Profile uses\nseed2499, separate directory, and does not count in the eight-seed study.\nProtocol or implementation repair after profile requires a new frozen identity.\n\nOfficial package qualification: PySINDy2.1.0 MIT, exact installed-source hashes\nand dependency pins in WPINN_PYSINDY_QUALIFICATION.json/REQUIREMENTS.txt. Official\n[weak ODE documentation](https://pysindy.readthedocs.io/en/stable/examples/12_weakform_SINDy_examples/example.html)\nsupports the API used. This is a qualified package comparator, not a reproduction\nof a published WSINDy result. A subsequent audit must replay saved predictions,\ncheck splits and selected thresholds, and verify source/artifact hashes.\n",
+      "interpretation": "Historical development contract; not retrospectively preregistered confirmation."
+    },
+    {
+      "project": "cwlnn",
+      "artifact": {
+        "path": "world-series/docs/closure/CWLNN_PROTOCOL.md",
+        "sha256": "c45019cde4878ad7f3c4bedb541fb677b69f325ffda275030cbdb13a531bb69a"
+      },
+      "original_contract": "# CWLNN conditional routing development protocol\n\nDevelopment only; DRAFT_NOT_AUTHORIZED for confirmation. Preserve the historical\nbudget-4 failure and flat4 superiority. This candidate tests the original\nsmall-graph hierarchy/routing claim, not language-model or portfolio-backbone\ncapability. Freeze numerical source before profile and campaign.\n\n## Inputs and tasks\n\nSeeds2707,2711,2713,2719,2729,2731,2741,2749; separate profile seed2699.\nTwo tasks: an explicitly hierarchy-aligned fine/coarse diffusion composition,\nand a diffusion/reaction target whose labels never access parent maps.\nSparse heat propagation via SciPy expm_multiply generates labels, not a learned\ncandidate forward pass. Public inputs are two random signals, diffusion time,\nnormalized coordinate, node IDs, and sparse edges. Parent IDs=floor(nodeID/2).\nEvery control receives the same raw parent means. Training topologies path/cycle,\nsizes24/48, time .3/.8. Held sizes96/192/384, topologies path/cycle/tree and times\n.3/1.2, four fresh graphs per cell. The hierarchy-aligned task is an inductive\nbias advantage and must be disclosed; the second task is retained regardless\nof result. Tree generalization and held diffusion time cannot be omitted.\n\nEach seed/task has32 training graphs and8 selection graphs with distinct\ngenerator IDs;72 evaluation graphs. Whole graphs are the split unit. No target\nlabels build hierarchy, routing features, or preprocessing.\n\n## Models and training\n\nAll models use width24 float64 CPU, learned input encoding, fine local update,\nlearned context transformation, cheap readout and an expensive 72->96->24->1\nrefinement MLP. Hierarchy context pools, propagates on the actual quotient\nadjacency, then broadcasts. Flat5 uses three extra fine aggregations, matching\nthe maximum fine-graph reach of pairwise hierarchy on training paths including\npublic raw pooling. Local uses one extra aggregation (explicit lower-reach\ncontrol). Attention uses dense similarity of trained embeddings, capped at512\nnodes per graph; its N² pairs are counted and never called sparse. No claim of\nreceptive-field matching on arbitrary trees, where quotient edges can connect\ndistant children of the supplied groups.\n\nEight models: hierarchy/full, flat5/full, local/full, attention/full,\nhierarchy/learned-route, hierarchy/disagreement-route, hierarchy/fixed-hash-route,\nflat5/learned-route. The first four process every refinement node. Routed models\nevaluate fractions0,.25,.5,1, with floor(fraction*N) per graph. Hard selection\nhappens BEFORE expensive refinement. Router cost, full cheap path and sorting\nremain. Fixed-hash routing is deterministic, not stochastic Monte Carlo routing.\nLearned router is a4->8->1 MLP on feature norms, local disagreement and budget.\nIt adds49 parameters; all other parameter counts match exactly. Record this\nsmall capacity difference rather than padding controls with unused parameters.\n\n160 Adam updates at .003, batch4 graphs, same generated batches per model.\nRouted training cycles fractions0,.25,.5,1 and adds N(0,.2²) priority exploration.\nSelected residuals use a straight-through sigmoid gate, forward multiplier1;\ngradient is only a surrogate on selected rows, not an exact top-k derivative.\nFull controls use all rows for all updates; training compute is therefore\ndifferent and measured. Select checkpoint80 or160 by average selection MSE\nover all four route fractions (full controls only fraction1). All training\nlosses, checkpoints, selection scores and state hashes saved. No evaluation\nlabels choose weights, route budgets or model configuration.\n\n## Primary and cost policy\n\nPrimary: prediction MSE at an inference latency ceiling of3 milliseconds per\nwhole held graph, including input tensor copies, parent construction, graph\nvalidation, quotient construction, pooling, routing, refinement and decoding.\nResident model loading and synthetic label generation are excluded. Warm each\nconfiguration once; five repetitions in a seeded randomized configuration order.\nSave every timing, report median per graph and complete error/time curve. A\nconfiguration must meet the ceiling on at least95% of all72 held graphs within\neach seed/task. Do not select the best budget with held errors: the primary\nrouted operating point is fraction.5; other fractions are descriptive tradeoffs.\nReport per-seed means, eight-seed descriptive bootstrap, and paired errors;\nno population or independent-confirmation claim. If a method misses the ceiling,\nits result is infeasible at this declared operating point, not a speedup.\n\nRecord raw parameter/state storage, graph arrays, receipts (refinement rows,\nattention pairs, quotient edges and refine multiply-adds), training wall time\nand process peak RSS. RSS is global, not a per-method memory claim. Timings on\nthis uncontrolled single CPU host support local evidence only. Counter savings\ndo not imply wall-time savings. Run a separate large sparse allocation check;\ndo not extrapolate attention beyond its declared cap.\n\nOne numerical worker, threads1. At most128 trained models/20,480 updates and\n23,040 held model-budget-graph predictions before five timing repeats. Unexpected\nfailures abort with preserved receipt. Audit split IDs, checkpoint selections,\nall prediction/route receipts, consistent node permutations and source hashes.\n",
+      "interpretation": "Historical development contract; not retrospectively preregistered confirmation."
+    },
+    {
+      "project": "ultron",
+      "artifact": {
+        "path": "world-series/docs/execution/development-v2/PROTOCOL.md",
+        "sha256": "af863a84918326bb8a19dcb89be0b1a0668e5f9f18ec2fcced52bc76218250a5"
+      },
+      "original_contract": "# Development execution protocol, 24 September 2026\n\nState: DRAFT_NOT_AUTHORIZED. These are visible development tasks, not a sealed\nconfirmation set. Existing raw runs and original configs are retained unchanged.\nThe initial repository snapshot is commit ae046d1. New studies use a separately\ncommitted source candidate and preserve all failed attempts.\n\n## Scope and denominators\n\nThe declared seeds are 101, 211, 307, 401, 503, 601, 701, 809. Eight non-QLearn\nmodules each receive eight development runs. QLearn receives eight natural-digit\nmeta-training runs with nine methods, four tuning trials per method, and two\nevaluation tasks at three horizons. Seeds are the aggregation units; task rows\nwithin seeds are dependent. All seeds share the finite underlying benchmark and\nmust not be treated as independent datasets.\n\nAll numerical jobs run serially on CPU. Each run has a wall-time and operation\nbudget. The matrix runner locks its campaign directory, binds source and config\nhashes, and verifies every file before reusing a completed cell. Interrupted cells\nreceive new run IDs on retry; previous receipts are not overwritten. This is\ncell-level resume, not mid-meta-training resume. Storage and memory monitoring\nare distinct from an operating-system enforced memory cap.\n\n## Evaluations\n\n- QLearn: UCI Optical Recognition of Handwritten Digits, CC BY 4.0, original\n  source files retained with SHA256 provenance. Binary +/-1 squared-loss tasks:\n  meta-train on digits 0/1 and 2/3, select on 4/5, evaluate 6/7 and 8/9. Evaluation\n  supports use original training writers; queries use original held writers.\n  Inputs divide by the published range maximum 16; no query-fitted preprocessing.\n  Two-hidden-layer width-24 tanh optimizees, 48 support and query examples per\n  task, 8 adaptation steps in training, 4 outer steps, 8/16/32 evaluation steps.\n  Full, reset-state, no-budget, no-gates, feedforward, SGD, momentum, AdamW and\n  initialization-only controls are all reported. Reset-state retains exactly\n  the full GRU parameterization. The initialization-only control meta-learns\n  initial parameters with exact gradients and a fixed 0.03 inner SGD rate.\n  It is an internal MAML-style control, not a claimed paper reproduction.\n- Q-APEN: causal context memory, no-memory, random retrieval, one-expert memory,\n  recent-history, cumulative and fixed controls. Four cycles of 80 ordinary and\n  20 rare observations; score all/rare/ordinary/first-five-return observations.\n  Retrieval uses previous observations only. The original candidate never read\n  its memory; this intervention is a new bounded mechanism, not evidence that\n  the entire lifecycle architecture is implemented. Equal prediction-call\n  counts do not imply equal computation or parameter counts.\n- QWIPII: sampled permutations of 4/5/6 labeled tokens, six per size per seed,\n  12/120 expansion caps, brute/quotient/ranking searches. Replay every returned\n  path in original coordinates. Canonical keys do not justify changing path\n  coordinates. Distinct fixed goals can eliminate any quotient savings.\n- WCODE: all distinct finite-domain behaviors in the existing 53-program pool,\n  public examples sampled independently per seed, evaluation on remaining\n  integers in [-8,8]. Candidate caps 8/24/53. Structural rankers cannot execute\n  the full pool for free. These rankers remain untrained heuristics.\n- WFIM: finite random supports, degrees 2/3/4, 12 cases each. Compare degree\n  truncation, top-k at matching term count, and transported multiplication.\n  Report coefficient error, terms, bytes and time separately. Matching terms\n  does not match byte count; transport parameters are extra storage.\n- WFT: weighted path graphs at sizes 12/24, observation noise 0/0.1/0.5, 8/32\n  training vectors; score 32 independent vectors. Ridge and constrained\n  Laplacian fits share observations. Fixed unit-weight and true-graph oracle\n  baselines are labeled separately. Refit at each size is not transfer.\n- WPINN: (k,c)=(1,0),(2,0.3),(4,0.8), observation noise 0/0.02/0.1. Fit on one\n  trajectory and score a clean independent initial condition of the same law.\n  Roll out every fitted polynomial term; never silently drop nonlinear terms\n  or clip damping. Report integration failures in the denominator. The known\n  support baseline is oracle-assisted. This is oscillator identification, not\n  general PDE discovery.\n- CWLNN: 12 training path graphs at size 24, eight independent evaluation graphs\n  at sizes 24/48/96. Target is four residual neighbor-mean steps plus a graph mean, independent\n  of the candidate hierarchy. Flat, hierarchy, routed, and limited-attention\n  features each receive equal-sized ridge readouts. Report graph-level error\n  and feature time. These are fixed features, not trained universal backbones.\n- Ultron: actual bounded DSL solvers as tools; every policy gets all five tools\n  and the same candidate caps. Split entire semantic program families for\n  router training/evaluation. Static, measured-cheapest, unrestricted random,\n  and nearest-neighbor learned selection execute a solver and verify its output\n  on held task examples. Training tool calls count separately. This restricted\n  routing study cannot establish general research-agent capability.\n\n## Analysis and claim rules\n\nPublish all method/condition cells, failures, raw trajectories and per-seed\ncontrasts. Missing or nonfinite rows invalidate the corresponding ordinary mean;\ndo not report a successful finite-only subset. QLearn's primary descriptive\ncontrast is full minus tuned SGD step-AUC at 32 steps. Secondary contrasts\ninclude reset-state and other methods. Exact paired sign-flip diagnostics use\nseed means and require sign symmetry; secondary diagnostics receive Holm\nadjustment. Neither nonsignificance nor small differences prove equivalence.\nWall time includes implementation overhead and host contention; step matching\ndoes not equalize meta-training or wall-time costs.\n\nExternal pretrained comparator evaluation, discrete MALIS actions, original\nfull-meta-training replay, independent verification and confirmatory protocol\nreview have separate receipts and scope. No local artifact may assert that an\nexternal evaluator has been sealed or that independent replication occurred.\n\n## Discrete action study\n\nThe separate discrete-malis-v1 plan uses the same eight seed IDs, constructed\nlinear/sine training tasks and tanh evaluation tasks, width-eight optimizees and\n32 attempted actions per evaluation episode. Five update actions (SGD, momentum,\nAdamW, half-support replay and Huber loss) train a four-phase support-progress\nranking. Static optimizers, random selection, learned phase selection and learned\nselection with support-triggered rollback are evaluated. Checkpoint/restore\nretains all optimizer states, parameters, replay IDs, controller state and random\nstates; spent action/gradient counters are never rolled back. The engine does\nnot use held query outcomes for decisions. This is a narrow learned scheduling\nprototype and action contract, not implementation of every proposed MALIS feature.\n\n## External comparator qualification\n\nOfficial Celo2 source and weights are pinned in CELO2_PROVENANCE.json. Source\nhash equality between the installed package and checkout is audited. Matrix and\nbias updates are checked for finite values and deterministic replay; the bias\nbranch is checked against its first-step AdamW formula. Four rates are selected\non the same local selection task. Its pretraining compute is unmatched, and\npossible overlap with NIST-derived pretraining sources has not been excluded.\nNo pristine out-of-distribution or equal-wall-time claim is made for Celo2.\n\n## Selection-boundary sensitivity, separately declared before execution\n\nInspection of the completed primary selection receipts found that every learned\npolicy selected the largest outer rate in the four-rate grid; SGD and momentum\nalso selected their largest rate. Therefore a separate development sensitivity\nplan expands all internal methods to six trials and increases meta-training\nfrom four to twelve outer steps. Baseline rates become\n0.001/0.01/0.03/0.1/0.3/0.6, and outer rates become\n0.0001/0.0003/0.001/0.003/0.01/0.03. The same eight seeds, tasks, examples and\nhorizons are retained. These already-exposed tasks remain development data.\nThe original primary result is not replaced; this follow-up tests selection-grid\nand training-budget sensitivity. Celo2's original four-rate result is not a\nmatched-six-trial comparison and is excluded from the follow-up's matched table.\n\nFor CWLNN the target propagation is explicitly (I + P)^4 X plus half the graph mean of the first feature, where P is the neighbor-mean operator. It is not normalized stochastic diffusion.\n",
+      "interpretation": "Historical development contract; not retrospectively preregistered confirmation."
+    }
+  ]
+}

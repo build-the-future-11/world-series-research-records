@@ -1,0 +1,12 @@
+---
+description: World Series research workbench guardrails
+globs:
+alwaysApply: true
+---
+
+Follow AGENTS.md. Do not fabricate metrics or scientific wins.
+Keep software readiness separate from research outcomes.
+Protect legacy research repos; no destructive cleanup or remote push/deploy.
+One numerical worker by default; CPU first; explicit budgets.
+Unimplemented capabilities must return unsupported/not-run, never mock research success.
+Use tasks/tasks.json as the dependency source of truth.

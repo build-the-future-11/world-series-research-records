@@ -1,0 +1,26 @@
+ M README.md
+ M docs/PAPER_AUDIT.md
+ M docs/closure/CURRENT_WORK.md
+ M docs/closure/PROPOSAL_IMPLEMENTATION_MAP.md
+ M paper/LAYOUT_REVIEW.json
+ M paper/preprint.md
+ M paper/preprint.pdf
+ M paper/preprint.tex
+ M scripts/build_delivery.py
+ M scripts/closure/analyze_wfim_learning.py
+ M scripts/closure/replay_wfim_training.py
+ M tests/test_delivery.py
+?? docs/closure/finite-closure-receipts/
+?? docs/history/20260924-pre-finite-closure-CURRENT_WORK.md
+?? docs/history/20260924-pre-finite-closure-PAPER_AUDIT.md
+?? docs/history/20260924-pre-finite-closure-PROPOSAL_IMPLEMENTATION_MAP.md
+?? docs/history/20260924-pre-finite-closure-preprint.md
+?? docs/history/20260924-pre-finite-closure-preprint.pdf
+?? docs/history/20260924-pre-finite-closure-preprint.tex
+?? paper/figures/
+?? paper/preprint.log
+?? reproduce.sh
+?? results/claim_index.json
+?? scripts/closure/source_paths.py
+?? scripts/reproduce_review.py
+?? tests/test_source_paths.py

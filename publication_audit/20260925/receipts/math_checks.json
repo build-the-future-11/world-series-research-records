@@ -1,0 +1,55 @@
+{
+  "legacy_add_zero_counterexample": {
+    "input": 1e-16,
+    "output": {},
+    "scope": "Threshold pruning violates exact additive identity; headline dense coordinate encoder does not use this add function."
+  },
+  "legacy_invalid_radius_norm": -1.0,
+  "wfim_feature_reweighting_max_error": 1.3877787807814457e-17,
+  "wft_contracts": [
+    {
+      "groups": 16,
+      "topology": "cycle",
+      "intertwining": 1.1102230246251565e-16,
+      "congruence": 4.440892098500626e-16,
+      "semigroup": 4.440892098500626e-16
+    },
+    {
+      "groups": 32,
+      "topology": "cycle",
+      "intertwining": 2.220446049250313e-16,
+      "congruence": 8.881784197001252e-16,
+      "semigroup": 3.3306690738754696e-16
+    },
+    {
+      "groups": 64,
+      "topology": "cycle",
+      "intertwining": 4.440892098500626e-16,
+      "congruence": 1.7763568394002505e-15,
+      "semigroup": 4.996003610813204e-16
+    },
+    {
+      "groups": 16,
+      "topology": "path",
+      "intertwining": 2.220446049250313e-16,
+      "congruence": 8.881784197001252e-16,
+      "semigroup": 3.3306690738754696e-16
+    },
+    {
+      "groups": 32,
+      "topology": "path",
+      "intertwining": 2.220446049250313e-16,
+      "congruence": 8.881784197001252e-16,
+      "semigroup": 3.885780586188048e-16
+    },
+    {
+      "groups": 64,
+      "topology": "path",
+      "intertwining": 4.440892098500626e-16,
+      "congruence": 1.7763568394002505e-15,
+      "semigroup": 6.106226635438361e-16
+    }
+  ],
+  "weak_test_endpoint_max": 0.0,
+  "scope": "Targeted contract challenges, not formal verification of all code or independent reproduction."
+}

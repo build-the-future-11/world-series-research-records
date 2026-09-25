@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "monorepo": "world-series",
+  "package": "world_series",
+  "projects": [
+    {
+      "id": "qlearn",
+      "name": "Quantum Learning / MALIS",
+      "namespace": "qlearn",
+      "spec": "docs/projects/01_qlearn.md"
+    },
+    {
+      "id": "qapen",
+      "name": "Q-APEN",
+      "namespace": "qapen",
+      "spec": "docs/projects/02_qapen.md"
+    },
+    {
+      "id": "qwipii",
+      "name": "QWIPII",
+      "namespace": "qwipii",
+      "spec": "docs/projects/03_qwipii.md"
+    },
+    {
+      "id": "wcode",
+      "name": "World-CNN Code",
+      "namespace": "wcode",
+      "spec": "docs/projects/04_wcode.md"
+    },
+    {
+      "id": "wfim",
+      "name": "World-FIM infinity",
+      "namespace": "wfim",
+      "spec": "docs/projects/05_wfim.md"
+    },
+    {
+      "id": "wft",
+      "name": "World Fourier Transform",
+      "namespace": "wft",
+      "spec": "docs/projects/06_wft.md"
+    },
+    {
+      "id": "wpinn",
+      "name": "World-PINN",
+      "namespace": "wpinn",
+      "spec": "docs/projects/07_wpinn.md"
+    },
+    {
+      "id": "cwlnn",
+      "name": "CWLNN",
+      "namespace": "cwlnn",
+      "spec": "docs/projects/08_cwlnn.md"
+    },
+    {
+      "id": "ultron",
+      "name": "Ultron",
+      "namespace": "ultron",
+      "spec": "docs/projects/09_ultron.md"
+    }
+  ]
+}

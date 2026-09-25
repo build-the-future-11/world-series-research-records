@@ -1,0 +1,9 @@
+{
+  "train_rows": 3823,
+  "test_rows": 1797,
+  "train_duplicate_rows": 0,
+  "test_duplicate_rows": 0,
+  "cross_split_exact_rows": 0,
+  "cross_split_exact_feature_vectors": 0,
+  "scope": "Exact source-row and feature duplicate check; not perceptual similarity or Celo2 pretraining audit."
+}
