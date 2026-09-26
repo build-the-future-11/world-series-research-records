@@ -1,10 +1,14 @@
 # World Series research records
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/build-the-future-11/world-series-research-records?include_prereleases)](https://github.com/build-the-future-11/world-series-research-records/releases/tag/v0.1.0-oss)
+
 Collection-level planning, audit, publication and provenance records for the
 nine-module [World Series workbench](https://github.com/build-the-future-11/world-series).
 
 **License:** Apache-2.0 — see [`LICENSE`](LICENSE), [`NOTICE`](NOTICE),
 [`THIRD_PARTY.md`](THIRD_PARTY.md).
+**Go-live results:** [`release_export/20260925/GO_LIVE_RESULTS.json`](release_export/20260925/GO_LIVE_RESULTS.json).
 
 ## What this collection contains
 

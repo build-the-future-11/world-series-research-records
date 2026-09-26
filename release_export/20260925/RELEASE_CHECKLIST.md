@@ -14,4 +14,5 @@
 - [x] Commit/push both repos; remote SHAs and CI verified green.
 - [x] Publish hashed review archive as release asset; repos public.
 - [x] Record go-live verification in `GO_LIVE_RESULTS.json`.
-- [ ] Optional: arXiv TeX upload.
+- [x] README badges + `.mailmap` + arXiv source bundle prepared (`world-series/paper/arxiv/`).
+- [ ] Human-only: submit prepared arXiv bundle at https://arxiv.org/submit.
