@@ -10,7 +10,8 @@
 - [x] Add real bounded CI, README/reproduction instructions.
 - [x] Adopt Apache-2.0 LICENSE/NOTICE and THIRD_PARTY inventory.
 - [x] Headline reproduction manifest + claim digest verifier (9/9 match).
-- [ ] Human: authorship attestation (`world-series/docs/AUTHORSHIP.md`).
-- [ ] Human: commit/push both repos; verify remote SHAs and CI.
-- [ ] Human: publish hashed review archive as release asset; set repos public.
+- [x] Authorship attestation (`world-series/docs/AUTHORSHIP.md`) — Ryan, 26 September 2026.
+- [x] Commit/push both repos; remote SHAs and CI verified green.
+- [x] Publish hashed review archive as release asset; repos public.
+- [x] Record go-live verification in `GO_LIVE_RESULTS.json`.
 - [ ] Optional: arXiv TeX upload.

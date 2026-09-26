@@ -1,0 +1,124 @@
+{
+  "generated_at_utc": "2026-09-26T10:54:24.829397+00:00",
+  "open_source": {
+    "license": "Apache-2.0",
+    "implementation": "https://github.com/build-the-future-11/world-series",
+    "records": "https://github.com/build-the-future-11/world-series-research-records",
+    "release": "https://github.com/build-the-future-11/world-series/releases/tag/v0.1.0-oss",
+    "private": false,
+    "archive_sha256": "f9ce4c2f8a1cfbdff969db392492870438607fe6b1d44c9f38b1d2d94c413a53",
+    "archive_bytes": 540474516,
+    "verified_files": 10200
+  },
+  "ci": "all recent Implementation checks runs: success",
+  "verification_passed": true,
+  "verification_steps": [
+    {
+      "step": "restore_delivery",
+      "exit_code": 0,
+      "seconds": 12.038
+    },
+    {
+      "step": "claim_verify",
+      "exit_code": 0,
+      "seconds": 0.186
+    },
+    {
+      "step": "tests",
+      "exit_code": 0,
+      "seconds": 8.168
+    },
+    {
+      "step": "doctor",
+      "exit_code": 0,
+      "seconds": 1.547
+    },
+    {
+      "step": "wfim_predictions",
+      "exit_code": 0,
+      "seconds": 4.168
+    },
+    {
+      "step": "artifact_audit",
+      "exit_code": 0,
+      "seconds": 0.644
+    },
+    {
+      "step": "validate_pack",
+      "exit_code": 0,
+      "seconds": 0.074
+    },
+    {
+      "step": "check_math",
+      "exit_code": 0,
+      "seconds": 0.037
+    }
+  ],
+  "commits": {
+    "world-series": "4384c690a42d645b36c82f1ea787a4dde5aeb9a2",
+    "records": "72d1e2b8f1a82ad73501981429d9cd45fd46a5be"
+  },
+  "scientific_headlines": {
+    "qlearn_32step_mean_AUC_lower_better": {
+      "full": 13.2809,
+      "SGD": 11.9562,
+      "momentum": 7.9893,
+      "AdamW": 6.4145,
+      "Celo2": 7.7454,
+      "verdict": "no general optimizer advantage"
+    },
+    "qapen_mean_NLL": {
+      "lifecycle": 0.61727,
+      "single_memory": 0.61225,
+      "rolling_ridge": 0.55893,
+      "cells": 512,
+      "predictions": 163840,
+      "verdict": "no lifecycle advantage over ridge"
+    },
+    "qwipii": {
+      "learned_exp": 21.3047,
+      "learned_ms": 16.9859,
+      "random_exp": 23.9453,
+      "random_ms": 9.0092,
+      "brute_ms": 1.2703,
+      "verdict": "fewer expansions but slower than random"
+    },
+    "wcode_cap24_pct": {
+      "relational": 10.54,
+      "token": 9.8,
+      "held_composition": 0.0,
+      "verdict": "no robust structural advantage"
+    },
+    "wft": {
+      "both_constraints_err": 0.000303878,
+      "unconstrained_err": 0.000928561,
+      "transfer_rows": 1792,
+      "worse_all_sizes": "12/48",
+      "verdict": "scoped benefit within compatible generator"
+    },
+    "wpinn": {
+      "neural_weak_failed_cells": 21,
+      "passive_failed_cells": 3,
+      "rollouts": 6720,
+      "verdict": "primary aggregates incomplete with failures"
+    },
+    "cwlnn_half_route_mse": {
+      "learned_aligned": 0.011939,
+      "full_aligned": 0.011412,
+      "learned_diff": 0.032721,
+      "full_diff": 0.029831,
+      "verdict": "half routing slower/worse than full hierarchy"
+    },
+    "wfim_ordered": {
+      "learned_template": 0.036352,
+      "identity_template": 0.035816,
+      "learned_length": 0.009514,
+      "identity_length": 0.006033,
+      "verdict": "learned coordinates do not beat identity"
+    }
+  },
+  "human_remaining": [
+    "Sign world-series/docs/AUTHORSHIP.md",
+    "Optional arXiv upload"
+  ]
+}
