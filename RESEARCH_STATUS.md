@@ -1,4 +1,6 @@
 > Current finite closure: [registry](RESEARCH_CLOSURE/REGISTRY.json) and [report](RESEARCH_CLOSURE/FINAL_REPORT.md). The earlier snapshot below is preserved for provenance; use the closure files for current states.
+>
+> **26 September 2026 packaging:** Apache-2.0 open-source grant prepared for both repositories. Bounded scientific claims are unchanged. Human gates: [`world-series/docs/AUTHORSHIP.md`](world-series/docs/AUTHORSHIP.md) and [`OPEN_SOURCE_GO_LIVE.md`](OPEN_SOURCE_GO_LIVE.md).
 
 # World Series current research status
 

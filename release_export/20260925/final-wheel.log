@@ -1,0 +1,9 @@
+Processing ./.
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: world-series
+  Building wheel for world-series (pyproject.toml): started
+  Building wheel for world-series (pyproject.toml): finished with status 'done'
+  Created wheel for world-series: filename=world_series-0.1.0-py3-none-any.whl size=135331 sha256=311d98fc8edb9ad80465c3802065f285281024f5cf1b2fbfb9d412ccc0bc6f8f
+  Stored in directory: /Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/final-release-20260925/pip-ephem-wheel-cache-9jlcgxg6/wheels/93/3b/b6/22b17336f369418b30a3e6818957806fc21b0e38d69acf2de1
+Successfully built world-series

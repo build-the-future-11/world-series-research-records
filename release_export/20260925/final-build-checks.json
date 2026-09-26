@@ -1,0 +1,56 @@
+[
+  {
+    "check": "final-static",
+    "argv": [
+      "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+      "-m",
+      "ruff",
+      "check",
+      "--select",
+      "E9,F821,F822,F823",
+      "src",
+      "tests",
+      "scripts"
+    ],
+    "exit_code": 0
+  },
+  {
+    "check": "final-wheel",
+    "argv": [
+      "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+      "-m",
+      "pip",
+      "wheel",
+      "--no-deps",
+      "--no-build-isolation",
+      "--wheel-dir",
+      "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/final-release-20260925/final-wheel",
+      "."
+    ],
+    "exit_code": 0
+  },
+  {
+    "check": "wheel-install",
+    "argv": [
+      "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+      "-m",
+      "pip",
+      "install",
+      "--no-deps",
+      "--target",
+      "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/final-release-20260925/wheel-install",
+      "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/final-release-20260925/final-wheel/world_series-0.1.0-py3-none-any.whl"
+    ],
+    "exit_code": 0
+  },
+  {
+    "check": "installed-doctor",
+    "argv": [
+      "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+      "-m",
+      "world_series",
+      "doctor"
+    ],
+    "exit_code": 0
+  }
+]

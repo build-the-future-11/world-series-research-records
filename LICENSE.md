@@ -1,9 +1,11 @@
-# Distribution status
+# License
 
-No project-wide distribution license has been approved in the evidence record.
-The previous Apache-2.0 package field was explicitly a placeholder, not a
-recorded license decision. This private review export does not grant an open
-source license. A rights holder must choose and approve terms before public
-release. Imported materials retain their own provenance and applicable terms;
-see those files inside the implementation repository.
-No authorship, affiliation, or rights ownership is inferred by this notice.
+Original planning, audit, publication and provenance records in this collection
+are licensed under the **Apache License, Version 2.0**. See [`LICENSE`](LICENSE)
+and [`NOTICE`](NOTICE).
+
+The implementation workbench lives in the separate `world-series` repository and
+carries its own Apache-2.0 grant plus third-party notices. Bundled or cited
+third-party materials keep their own terms.
+
+This replaces the earlier unresolved-distribution notice for this collection.

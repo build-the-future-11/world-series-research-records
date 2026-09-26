@@ -1,0 +1,1145 @@
+FINAL_RESEARCH/SOURCE_CHANGES.patch:8: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:25: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:29: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:35: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:51: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:72: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:143: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:146: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:148: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:151: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:153: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:155: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:157: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:161: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:164: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:166: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:169: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:171: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:174: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:176: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4222: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4228: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4232: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4238: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4248: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4269: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4271: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4289: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4291: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4298: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4304: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4305: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4316: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4317: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4336: trailing whitespace.
++ 
+FINAL_RESEARCH/SOURCE_CHANGES.patch:4337: trailing whitespace.
++ 
+RESEARCH_CLOSURE/receipts/current/doctor.log:10: trailing whitespace.
++  - algebra_multiply: AVAILABLE [wfim] 
+RESEARCH_CLOSURE/receipts/current/doctor.log:11: trailing whitespace.
++  - encode_multiscale_world: AVAILABLE [cwlnn] 
+RESEARCH_CLOSURE/receipts/current/doctor.log:12: trailing whitespace.
++  - identify_dynamical_law: AVAILABLE [wpinn] 
+RESEARCH_CLOSURE/receipts/current/doctor.log:13: trailing whitespace.
++  - orchestrate_episode: AVAILABLE [ultron] 
+RESEARCH_CLOSURE/receipts/current/doctor.log:15: trailing whitespace.
++  - solve_invariant_problem: AVAILABLE [qwipii] 
+RESEARCH_CLOSURE/receipts/current/doctor.log:16: trailing whitespace.
++  - spectral_transform: AVAILABLE [wft] 
+RESEARCH_CLOSURE/receipts/current/doctor.log:17: trailing whitespace.
++  - synthesize_dsl_program: AVAILABLE [wcode] 
+RESEARCH_CLOSURE/receipts/current/doctor.log:18: trailing whitespace.
++  - verify_certificate: AVAILABLE [qwipii] 
+RESEARCH_CLOSURE/receipts/package/doctor.log:10: trailing whitespace.
++  - algebra_multiply: AVAILABLE [wfim] 
+RESEARCH_CLOSURE/receipts/package/doctor.log:11: trailing whitespace.
++  - encode_multiscale_world: AVAILABLE [cwlnn] 
+RESEARCH_CLOSURE/receipts/package/doctor.log:12: trailing whitespace.
++  - identify_dynamical_law: AVAILABLE [wpinn] 
+RESEARCH_CLOSURE/receipts/package/doctor.log:13: trailing whitespace.
++  - orchestrate_episode: AVAILABLE [ultron] 
+RESEARCH_CLOSURE/receipts/package/doctor.log:15: trailing whitespace.
++  - solve_invariant_problem: AVAILABLE [qwipii] 
+RESEARCH_CLOSURE/receipts/package/doctor.log:16: trailing whitespace.
++  - spectral_transform: AVAILABLE [wft] 
+RESEARCH_CLOSURE/receipts/package/doctor.log:17: trailing whitespace.
++  - synthesize_dsl_program: AVAILABLE [wcode] 
+RESEARCH_CLOSURE/receipts/package/doctor.log:18: trailing whitespace.
++  - verify_certificate: AVAILABLE [qwipii] 
+publication_audit/20260924/PROJECT_AUDITS.md:283: new blank line at EOF.
+publication_audit/20260924/recomputed/all_module_cells.csv:1: trailing whitespace.
++project,method,condition,n,mean,std
+publication_audit/20260924/recomputed/all_module_cells.csv:2: trailing whitespace.
++cwlnn,budget_attention,n24,8,37.661761689972984,4.169239932454171
+publication_audit/20260924/recomputed/all_module_cells.csv:3: trailing whitespace.
++cwlnn,budget_attention,n48,8,33.21294727913404,3.6211753171496217
+publication_audit/20260924/recomputed/all_module_cells.csv:4: trailing whitespace.
++cwlnn,budget_attention,n96,8,33.42723245008673,1.0983489764040038
+publication_audit/20260924/recomputed/all_module_cells.csv:5: trailing whitespace.
++cwlnn,flat,n24,8,2.26611661171529,0.23854749947632684
+publication_audit/20260924/recomputed/all_module_cells.csv:6: trailing whitespace.
++cwlnn,flat,n48,8,2.11406601804236,0.18871590450873654
+publication_audit/20260924/recomputed/all_module_cells.csv:7: trailing whitespace.
++cwlnn,flat,n96,8,2.1108597728689507,0.13915342957486446
+publication_audit/20260924/recomputed/all_module_cells.csv:8: trailing whitespace.
++cwlnn,hierarchy,n24,8,1.4068534432876971,0.1659157219765443
+publication_audit/20260924/recomputed/all_module_cells.csv:9: trailing whitespace.
++cwlnn,hierarchy,n48,8,1.2127706015183701,0.12789205753049368
+publication_audit/20260924/recomputed/all_module_cells.csv:10: trailing whitespace.
++cwlnn,hierarchy,n96,8,1.2043443347415101,0.07433604630563985
+publication_audit/20260924/recomputed/all_module_cells.csv:11: trailing whitespace.
++cwlnn,routed,n24,8,11.095157461124446,2.506402553456676
+publication_audit/20260924/recomputed/all_module_cells.csv:12: trailing whitespace.
++cwlnn,routed,n48,8,11.912339468649472,0.879749245516432
+publication_audit/20260924/recomputed/all_module_cells.csv:13: trailing whitespace.
++cwlnn,routed,n96,8,13.693894629810206,0.7174546119132504
+publication_audit/20260924/recomputed/all_module_cells.csv:14: trailing whitespace.
++qapen,context_memory,all,8,1.1412890552375596,0.03007421079785744
+publication_audit/20260924/recomputed/all_module_cells.csv:15: trailing whitespace.
++qapen,context_memory,ordinary,8,1.0218354744345186,0.04811278215375934
+publication_audit/20260924/recomputed/all_module_cells.csv:16: trailing whitespace.
++qapen,context_memory,rare,8,1.619103378449723,0.06069235670571107
+publication_audit/20260924/recomputed/all_module_cells.csv:17: trailing whitespace.
++qapen,context_memory,return_first5,8,2.2852623771435328,0.21368742079303066
+publication_audit/20260924/recomputed/all_module_cells.csv:18: trailing whitespace.
++qapen,cumulative,all,8,1.4031338511167708,0.014886073726549005
+publication_audit/20260924/recomputed/all_module_cells.csv:19: trailing whitespace.
++qapen,cumulative,ordinary,8,0.9787199308823389,0.02809211446022624
+publication_audit/20260924/recomputed/all_module_cells.csv:20: trailing whitespace.
++qapen,cumulative,rare,8,3.100789532054498,0.0794997531024464
+publication_audit/20260924/recomputed/all_module_cells.csv:21: trailing whitespace.
++qapen,cumulative,return_first5,8,3.9350042008235713,0.3101371485263613
+publication_audit/20260924/recomputed/all_module_cells.csv:22: trailing whitespace.
++qapen,fixed,all,8,1.5817250684196371,0.005645588862956504
+publication_audit/20260924/recomputed/all_module_cells.csv:23: trailing whitespace.
++qapen,fixed,ordinary,8,1.5853758809451977,0.00865425414976502
+publication_audit/20260924/recomputed/all_module_cells.csv:24: trailing whitespace.
++qapen,fixed,rare,8,1.5671218183173943,0.0207835120910313
+publication_audit/20260924/recomputed/all_module_cells.csv:25: trailing whitespace.
++qapen,fixed,return_first5,8,1.5523945231769902,0.045690040795843996
+publication_audit/20260924/recomputed/all_module_cells.csv:26: trailing whitespace.
++qapen,no_memory,all,8,1.3493575398881297,0.024192846264088658
+publication_audit/20260924/recomputed/all_module_cells.csv:27: trailing whitespace.
++qapen,no_memory,ordinary,8,1.1921619413216136,0.051715824247536755
+publication_audit/20260924/recomputed/all_module_cells.csv:28: trailing whitespace.
++qapen,no_memory,rare,8,1.9781399341541954,0.12944180200194974
+publication_audit/20260924/recomputed/all_module_cells.csv:29: trailing whitespace.
++qapen,no_memory,return_first5,8,2.2635188441478453,0.24630907791652937
+publication_audit/20260924/recomputed/all_module_cells.csv:30: trailing whitespace.
++qapen,random_memory,all,8,1.3624044945630964,0.023167967476755726
+publication_audit/20260924/recomputed/all_module_cells.csv:31: trailing whitespace.
++qapen,random_memory,ordinary,8,1.113240211250018,0.03381985869189025
+publication_audit/20260924/recomputed/all_module_cells.csv:32: trailing whitespace.
++qapen,random_memory,rare,8,2.359061627815409,0.17161728767270282
+publication_audit/20260924/recomputed/all_module_cells.csv:33: trailing whitespace.
++qapen,random_memory,return_first5,8,2.8898980556420115,0.3388748717444159
+publication_audit/20260924/recomputed/all_module_cells.csv:34: trailing whitespace.
++qapen,recent,all,8,1.5173693837281217,0.1393256851017735
+publication_audit/20260924/recomputed/all_module_cells.csv:35: trailing whitespace.
++qapen,recent,ordinary,8,1.360181258424612,0.09651984283699477
+publication_audit/20260924/recomputed/all_module_cells.csv:36: trailing whitespace.
++qapen,recent,rare,8,2.1461218849421604,0.44615412394865556
+publication_audit/20260924/recomputed/all_module_cells.csv:37: trailing whitespace.
++qapen,recent,return_first5,8,4.808432578411848,1.6589404916148116
+publication_audit/20260924/recomputed/all_module_cells.csv:38: trailing whitespace.
++qapen,single_expert_memory,all,8,1.1003536161161027,0.025972567778604138
+publication_audit/20260924/recomputed/all_module_cells.csv:39: trailing whitespace.
++qapen,single_expert_memory,ordinary,8,0.8929718340090861,0.03609451517545532
+publication_audit/20260924/recomputed/all_module_cells.csv:40: trailing whitespace.
++qapen,single_expert_memory,rare,8,1.9298807445441686,0.10520641658647693
+publication_audit/20260924/recomputed/all_module_cells.csv:41: trailing whitespace.
++qapen,single_expert_memory,return_first5,8,3.1563587670731703,0.33770382014592465
+publication_audit/20260924/recomputed/all_module_cells.csv:42: trailing whitespace.
++qwipii,brute,n4/budget12,8,0.625,0.17251638983558856
+publication_audit/20260924/recomputed/all_module_cells.csv:43: trailing whitespace.
++qwipii,brute,n4/budget120,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:44: trailing whitespace.
++qwipii,brute,n5/budget12,8,0.08333333333333333,0.0890870806374748
+publication_audit/20260924/recomputed/all_module_cells.csv:45: trailing whitespace.
++qwipii,brute,n5/budget120,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:46: trailing whitespace.
++qwipii,brute,n6/budget12,8,0.041666666666666664,0.07715167498104596
+publication_audit/20260924/recomputed/all_module_cells.csv:47: trailing whitespace.
++qwipii,brute,n6/budget120,8,0.10416666666666666,0.1767766952966369
+publication_audit/20260924/recomputed/all_module_cells.csv:48: trailing whitespace.
++qwipii,quotient,n4/budget12,8,0.625,0.17251638983558856
+publication_audit/20260924/recomputed/all_module_cells.csv:49: trailing whitespace.
++qwipii,quotient,n4/budget120,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:50: trailing whitespace.
++qwipii,quotient,n5/budget12,8,0.08333333333333333,0.0890870806374748
+publication_audit/20260924/recomputed/all_module_cells.csv:51: trailing whitespace.
++qwipii,quotient,n5/budget120,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:52: trailing whitespace.
++qwipii,quotient,n6/budget12,8,0.041666666666666664,0.07715167498104596
+publication_audit/20260924/recomputed/all_module_cells.csv:53: trailing whitespace.
++qwipii,quotient,n6/budget120,8,0.10416666666666666,0.1767766952966369
+publication_audit/20260924/recomputed/all_module_cells.csv:54: trailing whitespace.
++qwipii,ranking_only,n4/budget12,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:55: trailing whitespace.
++qwipii,ranking_only,n4/budget120,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:56: trailing whitespace.
++qwipii,ranking_only,n5/budget12,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:57: trailing whitespace.
++qwipii,ranking_only,n5/budget120,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:58: trailing whitespace.
++qwipii,ranking_only,n6/budget12,8,0.6041666666666666,0.1767766952966369
+publication_audit/20260924/recomputed/all_module_cells.csv:59: trailing whitespace.
++qwipii,ranking_only,n6/budget120,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:60: trailing whitespace.
++ultron,cheapest,budget24,8,0.6666666666666666,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:61: trailing whitespace.
++ultron,cheapest,budget53,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:62: trailing whitespace.
++ultron,cheapest,budget8,8,0.2222222222222222,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:63: trailing whitespace.
++ultron,learned,budget24,8,0.8194444444444444,0.057505463278529484
+publication_audit/20260924/recomputed/all_module_cells.csv:64: trailing whitespace.
++ultron,learned,budget53,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:65: trailing whitespace.
++ultron,learned,budget8,8,0.2222222222222222,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:66: trailing whitespace.
++ultron,random,budget24,8,0.5833333333333334,0.16533862425396556
+publication_audit/20260924/recomputed/all_module_cells.csv:67: trailing whitespace.
++ultron,random,budget53,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:68: trailing whitespace.
++ultron,random,budget8,8,0.2222222222222222,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:69: trailing whitespace.
++ultron,static,budget24,8,0.4444444444444444,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:70: trailing whitespace.
++ultron,static,budget53,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:71: trailing whitespace.
++ultron,static,budget8,8,0.2222222222222222,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:72: trailing whitespace.
++wcode,flat,budget24,8,0.6666666666666666,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:73: trailing whitespace.
++wcode,flat,budget53,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:74: trailing whitespace.
++wcode,flat,budget8,8,0.3333333333333333,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:75: trailing whitespace.
++wcode,hierarchical,budget24,8,0.6666666666666666,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:76: trailing whitespace.
++wcode,hierarchical,budget53,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:77: trailing whitespace.
++wcode,hierarchical,budget8,8,0.3333333333333333,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:78: trailing whitespace.
++wcode,length,budget24,8,0.4444444444444444,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:79: trailing whitespace.
++wcode,length,budget53,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:80: trailing whitespace.
++wcode,length,budget8,8,0.2222222222222222,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:81: trailing whitespace.
++wcode,token,budget24,8,0.6666666666666666,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:82: trailing whitespace.
++wcode,token,budget53,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:83: trailing whitespace.
++wcode,token,budget8,8,0.3333333333333333,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:84: trailing whitespace.
++wcode,uniform,budget24,8,0.4444444444444444,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:85: trailing whitespace.
++wcode,uniform,budget53,8,1.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:86: trailing whitespace.
++wcode,uniform,budget8,8,0.2222222222222222,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:87: trailing whitespace.
++wfim,topk,degree2,8,24.093683312041378,6.9052682636801705
+publication_audit/20260924/recomputed/all_module_cells.csv:88: trailing whitespace.
++wfim,topk,degree3,8,19.716718535063556,8.8007361541321
+publication_audit/20260924/recomputed/all_module_cells.csv:89: trailing whitespace.
++wfim,topk,degree4,8,10.405934808237047,3.097846188634104
+publication_audit/20260924/recomputed/all_module_cells.csv:90: trailing whitespace.
++wfim,transported,degree2,8,1.4041282384570953e-31,5.001279445080351e-32
+publication_audit/20260924/recomputed/all_module_cells.csv:91: trailing whitespace.
++wfim,transported,degree3,8,4.2393460158925926e-31,1.280836671988998e-31
+publication_audit/20260924/recomputed/all_module_cells.csv:92: trailing whitespace.
++wfim,transported,degree4,8,8.004000647006222e-31,2.363455598074085e-31
+publication_audit/20260924/recomputed/all_module_cells.csv:93: trailing whitespace.
++wfim,truncated,degree2,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:94: trailing whitespace.
++wfim,truncated,degree3,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:95: trailing whitespace.
++wfim,truncated,degree4,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:96: trailing whitespace.
++wft,constrained_laplacian,n12/noise0.0/samples32,8,9.79168299218136e-07,3.931161094239401e-07
+publication_audit/20260924/recomputed/all_module_cells.csv:97: trailing whitespace.
++wft,constrained_laplacian,n12/noise0.0/samples8,8,1.0667151282221707,0.16362274751366704
+publication_audit/20260924/recomputed/all_module_cells.csv:98: trailing whitespace.
++wft,constrained_laplacian,n12/noise0.1/samples32,8,0.006215514034855694,0.003363378534458965
+publication_audit/20260924/recomputed/all_module_cells.csv:99: trailing whitespace.
++wft,constrained_laplacian,n12/noise0.1/samples8,8,0.936957067397248,0.3570727046093046
+publication_audit/20260924/recomputed/all_module_cells.csv:100: trailing whitespace.
++wft,constrained_laplacian,n12/noise0.5/samples32,8,0.16493962342903395,0.05305316882019175
+publication_audit/20260924/recomputed/all_module_cells.csv:101: trailing whitespace.
++wft,constrained_laplacian,n12/noise0.5/samples8,8,1.4094709561915142,0.4244845341617674
+publication_audit/20260924/recomputed/all_module_cells.csv:102: trailing whitespace.
++wft,constrained_laplacian,n24/noise0.0/samples32,8,5.615752064922555e-05,3.59864232104589e-05
+publication_audit/20260924/recomputed/all_module_cells.csv:103: trailing whitespace.
++wft,constrained_laplacian,n24/noise0.0/samples8,8,1.7538239169501766,0.29835503970869587
+publication_audit/20260924/recomputed/all_module_cells.csv:104: trailing whitespace.
++wft,constrained_laplacian,n24/noise0.1/samples32,8,0.05643872463331597,0.012482118564215995
+publication_audit/20260924/recomputed/all_module_cells.csv:105: trailing whitespace.
++wft,constrained_laplacian,n24/noise0.1/samples8,8,1.6480876315807635,0.3289276251016224
+publication_audit/20260924/recomputed/all_module_cells.csv:106: trailing whitespace.
++wft,constrained_laplacian,n24/noise0.5/samples32,8,1.529725516922761,0.41171124208195653
+publication_audit/20260924/recomputed/all_module_cells.csv:107: trailing whitespace.
++wft,constrained_laplacian,n24/noise0.5/samples8,8,1.8693162092986637,0.28960195641311015
+publication_audit/20260924/recomputed/all_module_cells.csv:108: trailing whitespace.
++wft,fixed_unit_weights,n12/noise0.0/samples32,8,0.48153744896028977,0.14606689052086727
+publication_audit/20260924/recomputed/all_module_cells.csv:109: trailing whitespace.
++wft,fixed_unit_weights,n12/noise0.0/samples8,8,0.4209104716416484,0.13520665196640053
+publication_audit/20260924/recomputed/all_module_cells.csv:110: trailing whitespace.
++wft,fixed_unit_weights,n12/noise0.1/samples32,8,0.417015558452803,0.14594522235679014
+publication_audit/20260924/recomputed/all_module_cells.csv:111: trailing whitespace.
++wft,fixed_unit_weights,n12/noise0.1/samples8,8,0.5347908599084839,0.15893079960702305
+publication_audit/20260924/recomputed/all_module_cells.csv:112: trailing whitespace.
++wft,fixed_unit_weights,n12/noise0.5/samples32,8,0.594669564465404,0.3545790371973286
+publication_audit/20260924/recomputed/all_module_cells.csv:113: trailing whitespace.
++wft,fixed_unit_weights,n12/noise0.5/samples8,8,0.4411198504813779,0.20646918562026495
+publication_audit/20260924/recomputed/all_module_cells.csv:114: trailing whitespace.
++wft,fixed_unit_weights,n24/noise0.0/samples32,8,0.5179027560517495,0.10796803611160258
+publication_audit/20260924/recomputed/all_module_cells.csv:115: trailing whitespace.
++wft,fixed_unit_weights,n24/noise0.0/samples8,8,0.544570415498451,0.1437606354922126
+publication_audit/20260924/recomputed/all_module_cells.csv:116: trailing whitespace.
++wft,fixed_unit_weights,n24/noise0.1/samples32,8,0.512812384878798,0.1258112154225558
+publication_audit/20260924/recomputed/all_module_cells.csv:117: trailing whitespace.
++wft,fixed_unit_weights,n24/noise0.1/samples8,8,0.5740675439682509,0.13866140831943585
+publication_audit/20260924/recomputed/all_module_cells.csv:118: trailing whitespace.
++wft,fixed_unit_weights,n24/noise0.5/samples32,8,0.42746018673109293,0.13449715055727912
+publication_audit/20260924/recomputed/all_module_cells.csv:119: trailing whitespace.
++wft,fixed_unit_weights,n24/noise0.5/samples8,8,0.47926373936061467,0.17107683324462475
+publication_audit/20260924/recomputed/all_module_cells.csv:120: trailing whitespace.
++wft,oracle_true_graph,n12/noise0.0/samples32,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:121: trailing whitespace.
++wft,oracle_true_graph,n12/noise0.0/samples8,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:122: trailing whitespace.
++wft,oracle_true_graph,n12/noise0.1/samples32,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:123: trailing whitespace.
++wft,oracle_true_graph,n12/noise0.1/samples8,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:124: trailing whitespace.
++wft,oracle_true_graph,n12/noise0.5/samples32,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:125: trailing whitespace.
++wft,oracle_true_graph,n12/noise0.5/samples8,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:126: trailing whitespace.
++wft,oracle_true_graph,n24/noise0.0/samples32,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:127: trailing whitespace.
++wft,oracle_true_graph,n24/noise0.0/samples8,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:128: trailing whitespace.
++wft,oracle_true_graph,n24/noise0.1/samples32,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:129: trailing whitespace.
++wft,oracle_true_graph,n24/noise0.1/samples8,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:130: trailing whitespace.
++wft,oracle_true_graph,n24/noise0.5/samples32,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:131: trailing whitespace.
++wft,oracle_true_graph,n24/noise0.5/samples8,8,0.0,0.0
+publication_audit/20260924/recomputed/all_module_cells.csv:132: trailing whitespace.
++wft,ridge,n12/noise0.0/samples32,8,1.915019744513119e-06,7.766456588466807e-07
+publication_audit/20260924/recomputed/all_module_cells.csv:133: trailing whitespace.
++wft,ridge,n12/noise0.0/samples8,8,1.8335625661788781,0.3118206497659204
+publication_audit/20260924/recomputed/all_module_cells.csv:134: trailing whitespace.
++wft,ridge,n12/noise0.1/samples32,8,0.005537417960562315,0.0011995998779240115
+publication_audit/20260924/recomputed/all_module_cells.csv:135: trailing whitespace.
++wft,ridge,n12/noise0.1/samples8,8,1.6406277899131743,0.5513123994917596
+publication_audit/20260924/recomputed/all_module_cells.csv:136: trailing whitespace.
++wft,ridge,n12/noise0.5/samples32,8,0.14986100792515777,0.044023243584221244
+publication_audit/20260924/recomputed/all_module_cells.csv:137: trailing whitespace.
++wft,ridge,n12/noise0.5/samples8,8,2.442103586881002,0.6699972040999066
+publication_audit/20260924/recomputed/all_module_cells.csv:138: trailing whitespace.
++wft,ridge,n24/noise0.0/samples32,8,4.21877598506823e-05,2.1109859479618844e-05
+publication_audit/20260924/recomputed/all_module_cells.csv:139: trailing whitespace.
++wft,ridge,n24/noise0.0/samples8,8,3.534515456650439,0.6155274006139685
+publication_audit/20260924/recomputed/all_module_cells.csv:140: trailing whitespace.
++wft,ridge,n24/noise0.1/samples32,8,0.03169541666295465,0.005454575270531027
+publication_audit/20260924/recomputed/all_module_cells.csv:141: trailing whitespace.
++wft,ridge,n24/noise0.1/samples8,8,3.3270384825362216,0.623334066610312
+publication_audit/20260924/recomputed/all_module_cells.csv:142: trailing whitespace.
++wft,ridge,n24/noise0.5/samples32,8,0.9190626255033358,0.23172916004378794
+publication_audit/20260924/recomputed/all_module_cells.csv:143: trailing whitespace.
++wft,ridge,n24/noise0.5/samples8,8,3.753500708474419,0.7137330709158657
+publication_audit/20260924/recomputed/all_module_cells.csv:144: trailing whitespace.
++wpinn,data_only,k1.0/c0.0/noise0.0,8,2.3042722639660957e-07,3.8478636894955035e-07
+publication_audit/20260924/recomputed/all_module_cells.csv:145: trailing whitespace.
++wpinn,data_only,k1.0/c0.0/noise0.02,8,,
+publication_audit/20260924/recomputed/all_module_cells.csv:146: trailing whitespace.
++wpinn,data_only,k1.0/c0.0/noise0.1,8,,
+publication_audit/20260924/recomputed/all_module_cells.csv:147: trailing whitespace.
++wpinn,data_only,k2.0/c0.3/noise0.0,8,1.8687767479457053e-06,2.6834638956153104e-06
+publication_audit/20260924/recomputed/all_module_cells.csv:148: trailing whitespace.
++wpinn,data_only,k2.0/c0.3/noise0.02,8,,
+publication_audit/20260924/recomputed/all_module_cells.csv:149: trailing whitespace.
++wpinn,data_only,k2.0/c0.3/noise0.1,8,,
+publication_audit/20260924/recomputed/all_module_cells.csv:150: trailing whitespace.
++wpinn,data_only,k4.0/c0.8/noise0.0,8,4.93385543442273e-06,6.609603184041848e-06
+publication_audit/20260924/recomputed/all_module_cells.csv:151: trailing whitespace.
++wpinn,data_only,k4.0/c0.8/noise0.02,8,,
+publication_audit/20260924/recomputed/all_module_cells.csv:152: trailing whitespace.
++wpinn,data_only,k4.0/c0.8/noise0.1,8,,
+publication_audit/20260924/recomputed/all_module_cells.csv:153: trailing whitespace.
++wpinn,known_support,k1.0/c0.0/noise0.0,8,7.281489562179172e-07,1.042104685595968e-06
+publication_audit/20260924/recomputed/all_module_cells.csv:154: trailing whitespace.
++wpinn,known_support,k1.0/c0.0/noise0.02,8,0.02767263472417637,0.07722471739396869
+publication_audit/20260924/recomputed/all_module_cells.csv:155: trailing whitespace.
++wpinn,known_support,k1.0/c0.0/noise0.1,8,32.19484058198355,91.03478940810848
+publication_audit/20260924/recomputed/all_module_cells.csv:156: trailing whitespace.
++wpinn,known_support,k2.0/c0.3/noise0.0,8,1.8687767479457053e-06,2.6834638956153104e-06
+publication_audit/20260924/recomputed/all_module_cells.csv:157: trailing whitespace.
++wpinn,known_support,k2.0/c0.3/noise0.02,8,0.03909832394029514,0.10870279481448021
+publication_audit/20260924/recomputed/all_module_cells.csv:158: trailing whitespace.
++wpinn,known_support,k2.0/c0.3/noise0.1,8,70.16383980121269,198.36215310712495
+publication_audit/20260924/recomputed/all_module_cells.csv:159: trailing whitespace.
++wpinn,known_support,k4.0/c0.8/noise0.0,8,4.93385543442273e-06,6.609603184041848e-06
+publication_audit/20260924/recomputed/all_module_cells.csv:160: trailing whitespace.
++wpinn,known_support,k4.0/c0.8/noise0.02,8,0.07380581821514663,0.20718745059172458
+publication_audit/20260924/recomputed/all_module_cells.csv:161: trailing whitespace.
++wpinn,known_support,k4.0/c0.8/noise0.1,8,100.35343016594285,283.7130257110712
+publication_audit/20260924/recomputed/all_module_cells.csv:162: trailing whitespace.
++wpinn,weak,k1.0/c0.0/noise0.0,8,7.350953063182111e-07,7.50928787942213e-07
+publication_audit/20260924/recomputed/all_module_cells.csv:163: trailing whitespace.
++wpinn,weak,k1.0/c0.0/noise0.02,8,0.09270503988995793,0.20019092599121147
+publication_audit/20260924/recomputed/all_module_cells.csv:164: trailing whitespace.
++wpinn,weak,k1.0/c0.0/noise0.1,8,,
+publication_audit/20260924/recomputed/all_module_cells.csv:165: trailing whitespace.
++wpinn,weak,k2.0/c0.3/noise0.0,8,1.9537122763808926e-06,1.7328052474250748e-06
+publication_audit/20260924/recomputed/all_module_cells.csv:166: trailing whitespace.
++wpinn,weak,k2.0/c0.3/noise0.02,8,,
+publication_audit/20260924/recomputed/all_module_cells.csv:167: trailing whitespace.
++wpinn,weak,k2.0/c0.3/noise0.1,8,1.0504881490330729,2.899528120976058
+publication_audit/20260924/recomputed/all_module_cells.csv:168: trailing whitespace.
++wpinn,weak,k4.0/c0.8/noise0.0,8,3.723962420929443e-06,2.67836789928745e-06
+publication_audit/20260924/recomputed/all_module_cells.csv:169: trailing whitespace.
++wpinn,weak,k4.0/c0.8/noise0.02,8,0.014276152970121015,0.0362839238018111
+publication_audit/20260924/recomputed/all_module_cells.csv:170: trailing whitespace.
++wpinn,weak,k4.0/c0.8/noise0.1,8,,
+publication_audit/20260924/recomputed/all_module_cells.csv:171: trailing whitespace.
++wpinn,wrong_conservation,k1.0/c0.0/noise0.0,8,7.350953063182111e-07,7.50928787942213e-07
+publication_audit/20260924/recomputed/all_module_cells.csv:172: trailing whitespace.
++wpinn,wrong_conservation,k1.0/c0.0/noise0.02,8,0.08469178820474259,0.20388114831806184
+publication_audit/20260924/recomputed/all_module_cells.csv:173: trailing whitespace.
++wpinn,wrong_conservation,k1.0/c0.0/noise0.1,8,,
+publication_audit/20260924/recomputed/all_module_cells.csv:174: trailing whitespace.
++wpinn,wrong_conservation,k2.0/c0.3/noise0.0,8,0.10126112663702633,0.07311145685277853
+publication_audit/20260924/recomputed/all_module_cells.csv:175: trailing whitespace.
++wpinn,wrong_conservation,k2.0/c0.3/noise0.02,8,,
+publication_audit/20260924/recomputed/all_module_cells.csv:176: trailing whitespace.
++wpinn,wrong_conservation,k2.0/c0.3/noise0.1,8,0.23631328926612843,0.26046310961702074
+publication_audit/20260924/recomputed/all_module_cells.csv:177: trailing whitespace.
++wpinn,wrong_conservation,k4.0/c0.8/noise0.0,8,0.3863022192356125,0.2199819603499787
+publication_audit/20260924/recomputed/all_module_cells.csv:178: trailing whitespace.
++wpinn,wrong_conservation,k4.0/c0.8/noise0.02,8,0.39275125047461223,0.2385223328989103
+publication_audit/20260924/recomputed/all_module_cells.csv:179: trailing whitespace.
++wpinn,wrong_conservation,k4.0/c0.8/noise0.1,8,,
+publication_audit/20260924/recomputed/digits_cells.csv:1: trailing whitespace.
++method,horizon,seeds,auc,final_loss,accuracy,adapt_seconds,failed_tasks
+publication_audit/20260924/recomputed/digits_cells.csv:2: trailing whitespace.
++adamw,8,8,3.7510395478801213,0.23326430119076463,0.9479166666666667,0.03100836212252034,0
+publication_audit/20260924/recomputed/digits_cells.csv:3: trailing whitespace.
++adamw,16,8,4.93213497852269,0.12574172631832897,0.9713541666666666,0.052208143311872846,0
+publication_audit/20260924/recomputed/digits_cells.csv:4: trailing whitespace.
++adamw,32,8,6.414486150844294,0.08130132887051003,0.9752604166666667,0.16672759118955582,0
+publication_audit/20260924/recomputed/digits_cells.csv:5: trailing whitespace.
++feedforward,8,8,6.5025168262631325,0.5893109455118523,0.88671875,0.05748214318555256,0
+publication_audit/20260924/recomputed/digits_cells.csv:6: trailing whitespace.
++feedforward,16,8,9.969381401038678,0.3092197040390952,0.9505208333333334,0.07331751568744949,0
+publication_audit/20260924/recomputed/digits_cells.csv:7: trailing whitespace.
++feedforward,32,8,13.123861841337943,0.1381939406017826,0.97265625,0.20585877612575132,0
+publication_audit/20260924/recomputed/digits_cells.csv:8: trailing whitespace.
++full,8,8,6.6792607912093205,0.6222278655857195,0.8763020833333333,0.09321325256132695,0
+publication_audit/20260924/recomputed/digits_cells.csv:9: trailing whitespace.
++full,16,8,10.264192924567997,0.3096792372608235,0.9609375,0.1246971431937709,0
+publication_audit/20260924/recomputed/digits_cells.csv:10: trailing whitespace.
++full,32,8,13.280946872115056,0.13704810115564886,0.9700520833333333,0.20681401543697575,0
+publication_audit/20260924/recomputed/digits_cells.csv:11: trailing whitespace.
++initialization_only,8,8,6.887023893740986,0.7295231479816123,0.8020833333333334,0.01328416912110697,0
+publication_audit/20260924/recomputed/digits_cells.csv:12: trailing whitespace.
++initialization_only,16,8,11.754889142981192,0.4968875635344937,0.9244791666666667,0.0279015417509072,0
+publication_audit/20260924/recomputed/digits_cells.csv:13: trailing whitespace.
++initialization_only,32,8,17.26017799578648,0.23587943643480752,0.9596354166666666,0.056716900939136394,0
+publication_audit/20260924/recomputed/digits_cells.csv:14: trailing whitespace.
++momentum,8,8,4.473842327984458,0.35749869901353404,0.96875,0.02931654956228158,0
+publication_audit/20260924/recomputed/digits_cells.csv:15: trailing whitespace.
++momentum,16,8,6.259935073352888,0.16739795549587555,0.9791666666666667,0.035596200434156344,0
+publication_audit/20260924/recomputed/digits_cells.csv:16: trailing whitespace.
++momentum,32,8,7.989325295824565,0.0733278307193872,0.9856770833333333,0.1035246797491709,0
+publication_audit/20260924/recomputed/digits_cells.csv:17: trailing whitespace.
++no_budget,8,8,6.66473480441862,0.6194100971405777,0.875,0.041584729247915675,0
+publication_audit/20260924/recomputed/digits_cells.csv:18: trailing whitespace.
++no_budget,16,8,10.23284202240831,0.3085190346399529,0.9609375,0.1115060988759069,0
+publication_audit/20260924/recomputed/digits_cells.csv:19: trailing whitespace.
++no_budget,32,8,13.261560835932713,0.13725408121897287,0.9700520833333333,0.32231754418171477,0
+publication_audit/20260924/recomputed/digits_cells.csv:20: trailing whitespace.
++no_gates,8,8,6.8386326893095415,0.664215439244848,0.8658854166666667,0.029224898560642032,0
+publication_audit/20260924/recomputed/digits_cells.csv:21: trailing whitespace.
++no_gates,16,8,10.73160092016292,0.34310933781132824,0.9622395833333334,0.05265800531014975,0
+publication_audit/20260924/recomputed/digits_cells.csv:22: trailing whitespace.
++no_gates,32,8,14.01598799361889,0.1429476747665205,0.9674479166666666,0.12247264055986307,0
+publication_audit/20260924/recomputed/digits_cells.csv:23: trailing whitespace.
++official_celo2,8,8,4.270856055229266,0.2678094605095096,0.96484375,0.03159730730840238,0
+publication_audit/20260924/recomputed/digits_cells.csv:24: trailing whitespace.
++official_celo2,16,8,5.9267998079798865,0.12145951277714276,0.9791666666666666,0.060526466126248124,0
+publication_audit/20260924/recomputed/digits_cells.csv:25: trailing whitespace.
++official_celo2,32,8,7.745352782606171,0.11604442139944632,0.98046875,0.12852604962790792,0
+publication_audit/20260924/recomputed/digits_cells.csv:26: trailing whitespace.
++reset_state,8,8,6.717554005794113,0.6359045529160219,0.8723958333333333,0.04517633312752878,0
+publication_audit/20260924/recomputed/digits_cells.csv:27: trailing whitespace.
++reset_state,16,8,10.42908014818563,0.324803541199302,0.9609375,0.11224832568586862,0
+publication_audit/20260924/recomputed/digits_cells.csv:28: trailing whitespace.
++reset_state,32,8,13.592760717067891,0.1400067437846152,0.96875,0.1892300599392911,0
+publication_audit/20260924/recomputed/digits_cells.csv:29: trailing whitespace.
++sgd,8,8,5.567542705324631,0.3806788238091864,0.9505208333333334,0.012496489565819502,0
+publication_audit/20260924/recomputed/digits_cells.csv:30: trailing whitespace.
++sgd,16,8,7.380347890912544,0.1479320197806255,0.9674479166666667,0.0721923253749992,0
+publication_audit/20260924/recomputed/digits_cells.csv:31: trailing whitespace.
++sgd,32,8,11.956158316504986,0.3255215192920712,0.94140625,0.13410267712242785,0
+publication_audit/20260924/recomputed/digits_comparisons.csv:1: trailing whitespace.
++comparator,n,seed_differences,comparator_minus_full_auc,p_exact,p_holm
+publication_audit/20260924/recomputed/digits_comparisons.csv:2: trailing whitespace.
++adamw,8,"[-4.451190196437883, -4.824247007062926, -7.199121410143032, -8.815751236099413, -12.225001136871043, -3.727292642205862, -9.791986183693094, -3.8970959576528603]",-6.866460721270764,0.0078125,0.0703125
+publication_audit/20260924/recomputed/digits_comparisons.csv:3: trailing whitespace.
++feedforward,8,"[-2.652288515610479, -0.902076534076869, 2.6249265743727523, -1.9055399703720113, 2.6147695809741265, -1.314517806671116, -0.2523532692836934, 0.5303996944503773]",-0.1570850307771141,0.8203125,1.0
+publication_audit/20260924/recomputed/digits_comparisons.csv:4: trailing whitespace.
++initialization_only,8,"[0.8875131689791544, 7.433582824195419, 7.015211034075728, 2.722572120291211, 2.029057566561189, 1.704585514044659, 6.84195576597179, 3.199370995252247]",3.9792311236714246,0.0078125,0.0703125
+publication_audit/20260924/recomputed/digits_comparisons.csv:5: trailing whitespace.
++momentum,8,"[-4.077426494336617, -2.115431578941566, -5.561014134090049, -6.876006884079404, -8.264243131139153, -4.542575780209324, -7.699419380012396, -3.196855227515428]",-5.291621576290492,0.0078125,0.0703125
+publication_audit/20260924/recomputed/digits_comparisons.csv:6: trailing whitespace.
++no_budget,8,"[-0.028202763470858372, -0.2678344640309067, 0.08013419097132335, 0.16681363119661974, -0.2055390844432594, -0.17261982244438023, 0.36552698308580744, -0.09336696032309888]",-0.019386036182344135,0.7890625,1.0
+publication_audit/20260924/recomputed/digits_comparisons.csv:7: trailing whitespace.
++no_gates,8,"[0.6166267868914126, 0.8926868033861872, 0.8758756563969197, 1.1126199003155222, 0.5025645637873808, 1.2599608013585026, -0.07490029659500408, 0.694894756489731]",0.7350411215038315,0.015625,0.0703125
+publication_audit/20260924/recomputed/digits_comparisons.csv:8: trailing whitespace.
++official_celo2,8,"[-4.337594125098509, -2.359740892121483, -6.296663568536298, -6.8054485407550604, -10.114309504047307, -4.331505847624019, -7.511114961116463, -2.5283752767719534]",-5.535594089508887,0.0078125,0.0703125
+publication_audit/20260924/recomputed/digits_comparisons.csv:9: trailing whitespace.
++reset_state,8,"[0.13121053163501095, 0.410740790435268, 0.2224270351725064, 0.4994274994481991, 0.05106592494718143, 0.3108450998434691, 0.7962771383306109, 0.0725167398104265]",0.31181384495283404,0.0078125,0.0703125
+publication_audit/20260924/recomputed/digits_comparisons.csv:10: trailing whitespace.
++sgd,8,"[-0.2687193355056934, -0.040322035775785636, -0.5514844248512283, -1.405167715190812, -5.774584641031547, 0.34471896025348236, -4.341098777333752, 1.4383495245547593]",-1.324788555610072,0.203125,0.609375
+publication_audit/20260924/recomputed/digits_per_seed.csv:1: trailing whitespace.
++method,horizon,seed,attempted_tasks,failures,auc,final_loss,accuracy,adapt_seconds
+publication_audit/20260924/recomputed/digits_per_seed.csv:2: trailing whitespace.
++adamw,8,101,2,0,4.414660248479385,0.35779461046064526,0.9166666666666667,0.12398437499359716
+publication_audit/20260924/recomputed/digits_per_seed.csv:3: trailing whitespace.
++adamw,8,211,2,0,3.3965072964885614,0.16105736728318015,0.9791666666666667,0.034202729497337714
+publication_audit/20260924/recomputed/digits_per_seed.csv:4: trailing whitespace.
++adamw,8,307,2,0,3.5367452453416557,0.2122618725891042,0.9479166666666667,0.02826541700051166
+publication_audit/20260924/recomputed/digits_per_seed.csv:5: trailing whitespace.
++adamw,8,401,2,0,3.3078293961949385,0.15872562312582564,0.9791666666666667,0.02009577100398019
+publication_audit/20260924/recomputed/digits_per_seed.csv:6: trailing whitespace.
++adamw,8,503,2,0,3.4214240228270634,0.20116000961303532,0.96875,0.010633729485562071
+publication_audit/20260924/recomputed/digits_per_seed.csv:7: trailing whitespace.
++adamw,8,601,2,0,4.380834089161111,0.33637445369205476,0.8958333333333333,0.00789100001566112
+publication_audit/20260924/recomputed/digits_per_seed.csv:8: trailing whitespace.
++adamw,8,701,2,0,3.5033074242551154,0.16809850242680058,0.9895833333333333,0.007131833001039922
+publication_audit/20260924/recomputed/digits_per_seed.csv:9: trailing whitespace.
++adamw,8,809,2,0,4.047008660293143,0.27064197033547105,0.90625,0.015862041982472874
+publication_audit/20260924/recomputed/digits_per_seed.csv:10: trailing whitespace.
++adamw,16,101,2,0,6.246232742902697,0.20866747215235695,0.9375,0.24300497950753197
+publication_audit/20260924/recomputed/digits_per_seed.csv:11: trailing whitespace.
++adamw,16,211,2,0,4.350887054666334,0.11885595802799945,0.9791666666666667,0.04994768749747891
+publication_audit/20260924/recomputed/digits_per_seed.csv:12: trailing whitespace.
++adamw,16,307,2,0,4.779282512730471,0.12870606168181534,0.96875,0.02535904198884964
+publication_audit/20260924/recomputed/digits_per_seed.csv:13: trailing whitespace.
++adamw,16,401,2,0,4.0003510056898195,0.059381108655226014,0.9895833333333333,0.030358271003933623
+publication_audit/20260924/recomputed/digits_per_seed.csv:14: trailing whitespace.
++adamw,16,503,2,0,4.201692086554825,0.10193169069379407,0.96875,0.02075945849355776
+publication_audit/20260924/recomputed/digits_per_seed.csv:15: trailing whitespace.
++adamw,16,601,2,0,6.092339623264689,0.17353548151181808,0.9583333333333333,0.01891270799387712
+publication_audit/20260924/recomputed/digits_per_seed.csv:16: trailing whitespace.
++adamw,16,701,2,0,4.389096763563675,0.06837572714582452,0.9895833333333333,0.013153041509212926
+publication_audit/20260924/recomputed/digits_per_seed.csv:17: trailing whitespace.
++adamw,16,809,2,0,5.397198038809014,0.14648031067779752,0.9791666666666667,0.016169958500540815
+publication_audit/20260924/recomputed/digits_per_seed.csv:18: trailing whitespace.
++adamw,32,101,2,0,8.827425890893517,0.1689644783341682,0.9583333333333333,0.9855057295062579
+publication_audit/20260924/recomputed/digits_per_seed.csv:19: trailing whitespace.
++adamw,32,211,2,0,5.795981786919253,0.08219466422526238,0.9791666666666667,0.06343506200937554
+publication_audit/20260924/recomputed/digits_per_seed.csv:20: trailing whitespace.
++adamw,32,307,2,0,6.436558794584782,0.0987998768209503,0.96875,0.07860472898755688
+publication_audit/20260924/recomputed/digits_per_seed.csv:21: trailing whitespace.
++adamw,32,401,2,0,4.9325435842882435,0.04810345937060171,0.9791666666666667,0.043353187502361834
+publication_audit/20260924/recomputed/digits_per_seed.csv:22: trailing whitespace.
++adamw,32,503,2,0,5.015005975606507,0.02725775318519554,0.9895833333333333,0.05499783350387588
+publication_audit/20260924/recomputed/digits_per_seed.csv:23: trailing whitespace.
++adamw,32,601,2,0,8.301075171139336,0.10095205654597196,0.9583333333333333,0.03444141650106758
+publication_audit/20260924/recomputed/digits_per_seed.csv:24: trailing whitespace.
++adamw,32,701,2,0,5.293512882372666,0.05238413473252117,0.9895833333333333,0.02734039600181859
+publication_audit/20260924/recomputed/digits_per_seed.csv:25: trailing whitespace.
++adamw,32,809,2,0,6.713785120950041,0.07175420774940904,0.9791666666666667,0.04614237550413236
+publication_audit/20260924/recomputed/digits_per_seed.csv:26: trailing whitespace.
++feedforward,8,101,2,0,5.599235300323784,0.41431510333601135,0.9479166666666667,0.24626506298955064
+publication_audit/20260924/recomputed/digits_per_seed.csv:27: trailing whitespace.
++feedforward,8,211,2,0,5.662717631536995,0.40579480818057645,0.9583333333333333,0.03327075000561308
+publication_audit/20260924/recomputed/digits_per_seed.csv:28: trailing whitespace.
++feedforward,8,307,2,0,7.102296139415095,0.7265750900076619,0.8645833333333334,0.041535978991305456
+publication_audit/20260924/recomputed/digits_per_seed.csv:29: trailing whitespace.
++feedforward,8,401,2,0,6.531848652929291,0.583078666083496,0.9375,0.016848104001837783
+publication_audit/20260924/recomputed/digits_per_seed.csv:30: trailing whitespace.
++feedforward,8,503,2,0,8.174451887954802,0.9373733429310426,0.5729166666666666,0.02712602050451096
+publication_audit/20260924/recomputed/digits_per_seed.csv:31: trailing whitespace.
++feedforward,8,601,2,0,5.707969466358589,0.4355673148401045,0.9270833333333333,0.017830708500696346
+publication_audit/20260924/recomputed/digits_per_seed.csv:32: trailing whitespace.
++feedforward,8,701,2,0,7.153276274825146,0.7495310589975921,0.90625,0.031126146001042798
+publication_audit/20260924/recomputed/digits_per_seed.csv:33: trailing whitespace.
++feedforward,8,809,2,0,6.088339256761351,0.4622521797183333,0.9791666666666667,0.0458543744898634
+publication_audit/20260924/recomputed/digits_per_seed.csv:34: trailing whitespace.
++feedforward,16,101,2,0,7.923658545408776,0.2088300506268821,0.9583333333333333,0.178887833506451
+publication_audit/20260924/recomputed/digits_per_seed.csv:35: trailing whitespace.
++feedforward,16,211,2,0,7.602517233016961,0.15969751400057283,0.9791666666666667,0.06121095849084668
+publication_audit/20260924/recomputed/digits_per_seed.csv:36: trailing whitespace.
++feedforward,16,307,2,0,11.585772080253285,0.4199664225616894,0.9375,0.06784924998646602
+publication_audit/20260924/recomputed/digits_per_seed.csv:37: trailing whitespace.
++feedforward,16,401,2,0,9.680713098556446,0.2695295202201314,0.9791666666666667,0.04446622901014052
+publication_audit/20260924/recomputed/digits_per_seed.csv:38: trailing whitespace.
++feedforward,16,503,2,0,14.655205683449491,0.6308694926296179,0.875,0.06859016699308995
+publication_audit/20260924/recomputed/digits_per_seed.csv:39: trailing whitespace.
++feedforward,16,601,2,0,8.088527070630526,0.196150511658878,0.9375,0.04152891649573576
+publication_audit/20260924/recomputed/digits_per_seed.csv:40: trailing whitespace.
++feedforward,16,701,2,0,11.63440737164976,0.3827154877523651,0.96875,0.08179072951315902
+publication_audit/20260924/recomputed/digits_per_seed.csv:41: trailing whitespace.
++feedforward,16,809,2,0,8.584250125344184,0.20599863286262474,0.96875,0.04221604150370695
+publication_audit/20260924/recomputed/digits_per_seed.csv:42: trailing whitespace.
++feedforward,32,101,2,0,10.626327571720921,0.15251846556799242,0.9583333333333333,0.6185323124955175
+publication_audit/20260924/recomputed/digits_per_seed.csv:43: trailing whitespace.
++feedforward,32,211,2,0,9.71815225990531,0.12724023283826674,0.9791666666666667,0.12290493749605957
+publication_audit/20260924/recomputed/digits_per_seed.csv:44: trailing whitespace.
++feedforward,32,307,2,0,16.260606779100566,0.20012805829903327,0.9583333333333333,0.14849799999501556
+publication_audit/20260924/recomputed/digits_per_seed.csv:45: trailing whitespace.
++feedforward,32,401,2,0,11.842754850015645,0.09835651109427039,0.9791666666666667,0.10853900000802241
+publication_audit/20260924/recomputed/digits_per_seed.csv:46: trailing whitespace.
++feedforward,32,503,2,0,19.854776693451676,0.14203670542901087,0.9583333333333333,0.1213515835115686
+publication_audit/20260924/recomputed/digits_per_seed.csv:47: trailing whitespace.
++feedforward,32,601,2,0,10.713850006674082,0.1379508746363628,0.9791666666666667,0.09325252099370118
+publication_audit/20260924/recomputed/digits_per_seed.csv:48: trailing whitespace.
++feedforward,32,701,2,0,14.833145796782068,0.10951262227936787,0.9895833333333333,0.24354489598772489
+publication_audit/20260924/recomputed/digits_per_seed.csv:49: trailing whitespace.
++feedforward,32,809,2,0,11.141280773053278,0.1378080546699566,0.9791666666666667,0.1902469585184008
+publication_audit/20260924/recomputed/digits_per_seed.csv:50: trailing whitespace.
++full,8,101,2,0,6.403778680723508,0.5840045469356514,0.9270833333333333,0.5151032705034595
+publication_audit/20260924/recomputed/digits_per_seed.csv:51: trailing whitespace.
++full,8,211,2,0,6.054543035216707,0.4690771364411664,0.9583333333333333,0.0494647915038513
+publication_audit/20260924/recomputed/digits_per_seed.csv:52: trailing whitespace.
++full,8,307,2,0,6.712837567477243,0.6143082469175333,0.8854166666666667,0.04540808348974679
+publication_audit/20260924/recomputed/digits_per_seed.csv:53: trailing whitespace.
++full,8,401,2,0,6.92312044872523,0.6678555707200854,0.8645833333333333,0.0252682080026716
+publication_audit/20260924/recomputed/digits_per_seed.csv:54: trailing whitespace.
++full,8,503,2,0,8.063838571479653,0.9052099334937491,0.5729166666666666,0.021440229000290856
+publication_audit/20260924/recomputed/digits_per_seed.csv:55: trailing whitespace.
++full,8,601,2,0,6.135569791406143,0.5424035351214578,0.90625,0.025525791992549784
+publication_audit/20260924/recomputed/digits_per_seed.csv:56: trailing whitespace.
++full,8,701,2,0,7.196270661281756,0.7628785342440424,0.90625,0.02557504149444867
+publication_audit/20260924/recomputed/digits_per_seed.csv:57: trailing whitespace.
++full,8,809,2,0,5.944127573364321,0.4320854208120703,0.9895833333333333,0.03792060450359713
+publication_audit/20260924/recomputed/digits_per_seed.csv:58: trailing whitespace.
++full,16,101,2,0,9.790888317573199,0.31406953538690485,0.9583333333333333,0.5626871245040093
+publication_audit/20260924/recomputed/digits_per_seed.csv:59: trailing whitespace.
++full,16,211,2,0,8.375846516079697,0.17254055405569757,0.9791666666666667,0.09107685401977506
+publication_audit/20260924/recomputed/digits_per_seed.csv:60: trailing whitespace.
++full,16,307,2,0,10.225895606976259,0.31971210186601334,0.9583333333333333,0.1114695415017195
+publication_audit/20260924/recomputed/digits_per_seed.csv:61: trailing whitespace.
++full,16,401,2,0,10.77429250849126,0.3425966326498848,0.96875,0.03732162450614851
+publication_audit/20260924/recomputed/digits_per_seed.csv:62: trailing whitespace.
++full,16,503,2,0,13.825258466774397,0.4852026091000203,0.9479166666666667,0.04137970852025319
+publication_audit/20260924/recomputed/digits_per_seed.csv:63: trailing whitespace.
++full,16,601,2,0,9.110697299864873,0.25335240167099826,0.9270833333333333,0.058948458507074974
+publication_audit/20260924/recomputed/digits_per_seed.csv:64: trailing whitespace.
++full,16,701,2,0,11.802566209435408,0.4019895124326197,0.96875,0.042750875509227626
+publication_audit/20260924/recomputed/digits_per_seed.csv:65: trailing whitespace.
++full,16,809,2,0,8.208098471348885,0.18797055092444925,0.9791666666666667,0.05194295848195907
+publication_audit/20260924/recomputed/digits_per_seed.csv:66: trailing whitespace.
++full,32,101,2,0,13.2786160873314,0.17131412694056478,0.9583333333333333,0.8500444995006546
+publication_audit/20260924/recomputed/digits_per_seed.csv:67: trailing whitespace.
++full,32,211,2,0,10.620228793982179,0.12695101614089016,0.9791666666666667,0.17273760399257299
+publication_audit/20260924/recomputed/digits_per_seed.csv:68: trailing whitespace.
++full,32,307,2,0,13.635680204727814,0.16374964056896088,0.9583333333333333,0.1339745205041254
+publication_audit/20260924/recomputed/digits_per_seed.csv:69: trailing whitespace.
++full,32,401,2,0,13.748294820387656,0.1133551958896889,0.9791666666666667,0.10884674999397248
+publication_audit/20260924/recomputed/digits_per_seed.csv:70: trailing whitespace.
++full,32,503,2,0,17.24000711247755,0.12335044352778654,0.9583333333333333,0.08764702049666084
+publication_audit/20260924/recomputed/digits_per_seed.csv:71: trailing whitespace.
++full,32,601,2,0,12.028367813345199,0.15154178829260986,0.9583333333333333,0.08344887499697506
+publication_audit/20260924/recomputed/digits_per_seed.csv:72: trailing whitespace.
++full,32,701,2,0,15.085499066065761,0.11105967718777823,0.9895833333333333,0.08582849999947939
+publication_audit/20260924/recomputed/digits_per_seed.csv:73: trailing whitespace.
++full,32,809,2,0,10.610881078602901,0.13506292069691145,0.9791666666666667,0.1319843540113652
+publication_audit/20260924/recomputed/digits_per_seed.csv:74: trailing whitespace.
++initialization_only,8,101,2,0,6.07146142872643,0.5891817204829335,0.875,0.033081500499974936
+publication_audit/20260924/recomputed/digits_per_seed.csv:75: trailing whitespace.
++initialization_only,8,211,2,0,7.17871072879186,0.7868916760266068,0.9166666666666667,0.005093624989967793
+publication_audit/20260924/recomputed/digits_per_seed.csv:76: trailing whitespace.
++initialization_only,8,307,2,0,7.5286358990188536,0.8549405920075659,0.7291666666666666,0.010429520494653843
+publication_audit/20260924/recomputed/digits_per_seed.csv:77: trailing whitespace.
++initialization_only,8,401,2,0,6.758209538163926,0.6982218434932509,0.8020833333333333,0.013561332991230302
+publication_audit/20260924/recomputed/digits_per_seed.csv:78: trailing whitespace.
++initialization_only,8,503,2,0,7.787236939909617,0.8628521643638416,0.6041666666666667,0.005382457995438017
+publication_audit/20260924/recomputed/digits_per_seed.csv:79: trailing whitespace.
++initialization_only,8,601,2,0,5.93750020676293,0.584002756410735,0.9166666666666667,0.00855577050242573
+publication_audit/20260924/recomputed/digits_per_seed.csv:80: trailing whitespace.
++initialization_only,8,701,2,0,7.616788354297544,0.8833617525528492,0.6770833333333334,0.009796458500204608
+publication_audit/20260924/recomputed/digits_per_seed.csv:81: trailing whitespace.
++initialization_only,8,809,2,0,6.217648054256726,0.5767326785151157,0.8958333333333333,0.02037268699496053
+publication_audit/20260924/recomputed/digits_per_seed.csv:82: trailing whitespace.
++initialization_only,16,101,2,0,9.803561132945783,0.3731844146473098,0.9583333333333333,0.050658145497436635
+publication_audit/20260924/recomputed/digits_per_seed.csv:83: trailing whitespace.
++initialization_only,16,211,2,0,12.48290529437825,0.5331069389428778,0.9375,0.028603416518308222
+publication_audit/20260924/recomputed/digits_per_seed.csv:84: trailing whitespace.
++initialization_only,16,307,2,0,13.466047870605822,0.6220987605669802,0.8854166666666667,0.0543816040008096
+publication_audit/20260924/recomputed/digits_per_seed.csv:85: trailing whitespace.
++initialization_only,16,401,2,0,11.3109281966725,0.4610956416466053,0.9479166666666667,0.0363659999857191
+publication_audit/20260924/recomputed/digits_per_seed.csv:86: trailing whitespace.
++initialization_only,16,503,2,0,13.572613037643936,0.5745196765411889,0.8541666666666667,0.009061459000804462
+publication_audit/20260924/recomputed/digits_per_seed.csv:87: trailing whitespace.
++initialization_only,16,601,2,0,9.604700471361213,0.35850347592910475,0.9375,0.011585583502892405
+publication_audit/20260924/recomputed/digits_per_seed.csv:88: trailing whitespace.
++initialization_only,16,701,2,0,14.007997712478728,0.7024110365995304,0.9479166666666667,0.023410104506183416
+publication_audit/20260924/recomputed/digits_per_seed.csv:89: trailing whitespace.
++initialization_only,16,809,2,0,9.790359427763304,0.35018056340235243,0.9270833333333333,0.009146020995103754
+publication_audit/20260924/recomputed/digits_per_seed.csv:90: trailing whitespace.
++initialization_only,32,101,2,0,14.166129256310555,0.20295421603398303,0.9583333333333333,0.1969232915143948
+publication_audit/20260924/recomputed/digits_per_seed.csv:91: trailing whitespace.
++initialization_only,32,211,2,0,18.053811618177598,0.22083045329696718,0.9791666666666667,0.04552379150118213
+publication_audit/20260924/recomputed/digits_per_seed.csv:92: trailing whitespace.
++initialization_only,32,307,2,0,20.650891238803542,0.3277824753759422,0.9583333333333333,0.053355583499069326
+publication_audit/20260924/recomputed/digits_per_seed.csv:93: trailing whitespace.
++initialization_only,32,401,2,0,16.470866940678867,0.20766827790414952,0.96875,0.0436700000136625
+publication_audit/20260924/recomputed/digits_per_seed.csv:94: trailing whitespace.
++initialization_only,32,503,2,0,19.26906467903874,0.22121934969337495,0.9583333333333333,0.023628166512935422
+publication_audit/20260924/recomputed/digits_per_seed.csv:95: trailing whitespace.
++initialization_only,32,601,2,0,13.732953327389858,0.1968053803851121,0.9375,0.020618020484107547
+publication_audit/20260924/recomputed/digits_per_seed.csv:96: trailing whitespace.
++initialization_only,32,701,2,0,21.92745483203755,0.3204251471065324,0.96875,0.045277354001882486
+publication_audit/20260924/recomputed/digits_per_seed.csv:97: trailing whitespace.
++initialization_only,32,809,2,0,13.810252073855148,0.18935019168239858,0.9479166666666667,0.024738999985856935
+publication_audit/20260924/recomputed/digits_per_seed.csv:98: trailing whitespace.
++momentum,8,101,2,0,4.585839411048399,0.5071931837331923,0.9583333333333333,0.12240718748944346
+publication_audit/20260924/recomputed/digits_per_seed.csv:99: trailing whitespace.
++momentum,8,211,2,0,4.274801404760576,0.46467463476780874,0.9791666666666667,0.04048620800313074
+publication_audit/20260924/recomputed/digits_per_seed.csv:100: trailing whitespace.
++momentum,8,307,2,0,4.610852706769689,0.30141704470235486,0.9479166666666667,0.012293645995669067
+publication_audit/20260924/recomputed/digits_per_seed.csv:101: trailing whitespace.
++momentum,8,401,2,0,4.228052454057951,0.3040980804252281,0.9791666666666667,0.02171779199852608
+publication_audit/20260924/recomputed/digits_per_seed.csv:102: trailing whitespace.
++momentum,8,503,2,0,5.363221769391094,0.37508317017942727,0.9791666666666667,0.019339062506332994
+publication_audit/20260924/recomputed/digits_per_seed.csv:103: trailing whitespace.
++momentum,8,601,2,0,4.077979864790897,0.4109890517787953,0.9479166666666667,0.0067577709996839985
+publication_audit/20260924/recomputed/digits_per_seed.csv:104: trailing whitespace.
++momentum,8,701,2,0,4.62130378012807,0.19060205839463784,0.9791666666666667,0.0060807500121882185
+publication_audit/20260924/recomputed/digits_per_seed.csv:105: trailing whitespace.
++momentum,8,809,2,0,4.028687232928988,0.3059323681268281,0.9791666666666667,0.005449979493278079
+publication_audit/20260924/recomputed/digits_per_seed.csv:106: trailing whitespace.
++momentum,16,101,2,0,6.730959255710461,0.20048030854394608,0.9479166666666667,0.13614693749696016
+publication_audit/20260924/recomputed/digits_per_seed.csv:107: trailing whitespace.
++momentum,16,211,2,0,6.305371888725514,0.22959138345300198,0.9791666666666667,0.038257249994785525
+publication_audit/20260924/recomputed/digits_per_seed.csv:108: trailing whitespace.
++momentum,16,307,2,0,6.35569895446142,0.18194223734073925,0.96875,0.018797708486090414
+publication_audit/20260924/recomputed/digits_per_seed.csv:109: trailing whitespace.
++momentum,16,401,2,0,5.710960295286688,0.0992850534486591,0.9895833333333333,0.01853912499791477
+publication_audit/20260924/recomputed/digits_per_seed.csv:110: trailing whitespace.
++momentum,16,503,2,0,7.289346659773955,0.2087078126273873,0.9791666666666667,0.030605895502958447
+publication_audit/20260924/recomputed/digits_per_seed.csv:111: trailing whitespace.
++momentum,16,601,2,0,5.750526831913165,0.1747436725144105,1.0,0.014522791505442001
+publication_audit/20260924/recomputed/digits_per_seed.csv:112: trailing whitespace.
++momentum,16,701,2,0,6.186232942640301,0.07565137757313178,0.9895833333333333,0.014668166491901502
+publication_audit/20260924/recomputed/digits_per_seed.csv:113: trailing whitespace.
++momentum,16,809,2,0,5.750383758311596,0.16878179846572833,0.9791666666666667,0.013231728997197933
+publication_audit/20260924/recomputed/digits_per_seed.csv:114: trailing whitespace.
++momentum,32,101,2,0,9.201189592994783,0.13248004523877677,0.96875,0.5501600209972821
+publication_audit/20260924/recomputed/digits_per_seed.csv:115: trailing whitespace.
++momentum,32,211,2,0,8.504797215040613,0.09869903784944124,0.9791666666666667,0.07132329148589633
+publication_audit/20260924/recomputed/digits_per_seed.csv:116: trailing whitespace.
++momentum,32,307,2,0,8.074666070637765,0.07193964131176042,0.9583333333333333,0.049934270995436236
+publication_audit/20260924/recomputed/digits_per_seed.csv:117: trailing whitespace.
++momentum,32,401,2,0,6.872287936308252,0.03861138207441692,1.0,0.05143802100792527
+publication_audit/20260924/recomputed/digits_per_seed.csv:118: trailing whitespace.
++momentum,32,503,2,0,8.975763981338396,0.055902772267285857,0.9895833333333333,0.02933297900017351
+publication_audit/20260924/recomputed/digits_per_seed.csv:119: trailing whitespace.
++momentum,32,601,2,0,7.4857920331358745,0.07552106868996568,1.0,0.029314750005141832
+publication_audit/20260924/recomputed/digits_per_seed.csv:120: trailing whitespace.
++momentum,32,701,2,0,7.386079686053366,0.047397181885098116,0.9895833333333333,0.023333146498771384
+publication_audit/20260924/recomputed/digits_per_seed.csv:121: trailing whitespace.
++momentum,32,809,2,0,7.414025851087473,0.06607151643835264,1.0,0.023360958002740517
+publication_audit/20260924/recomputed/digits_per_seed.csv:122: trailing whitespace.
++no_budget,8,101,2,0,6.394489424591707,0.5820371945013612,0.9270833333333333,0.07427595849731006
+publication_audit/20260924/recomputed/digits_per_seed.csv:123: trailing whitespace.
++no_budget,8,211,2,0,5.966560795288183,0.45277219654719714,0.9583333333333333,0.05742879198805895
+publication_audit/20260924/recomputed/digits_per_seed.csv:124: trailing whitespace.
++no_budget,8,307,2,0,6.724993045951287,0.6170566096608074,0.8854166666666667,0.052297854505013674
+publication_audit/20260924/recomputed/digits_per_seed.csv:125: trailing whitespace.
++no_budget,8,401,2,0,6.941414198688825,0.6734345311565486,0.8645833333333333,0.022429145989008248
+publication_audit/20260924/recomputed/digits_per_seed.csv:126: trailing whitespace.
++no_budget,8,503,2,0,8.055932185529567,0.9013176700812717,0.5729166666666666,0.02320062500075437
+publication_audit/20260924/recomputed/digits_per_seed.csv:127: trailing whitespace.
++no_budget,8,601,2,0,6.1016230528439355,0.5330614328506812,0.90625,0.022328499995637685
+publication_audit/20260924/recomputed/digits_per_seed.csv:128: trailing whitespace.
++no_budget,8,701,2,0,7.215717018152225,0.7698023779054911,0.8958333333333333,0.022226979010156356
+publication_audit/20260924/recomputed/digits_per_seed.csv:129: trailing whitespace.
++no_budget,8,809,2,0,5.91714871430323,0.4257987644212633,0.9895833333333333,0.05848997899738606
+publication_audit/20260924/recomputed/digits_per_seed.csv:130: trailing whitespace.
++no_budget,16,101,2,0,9.769589859913282,0.31275106173985345,0.9583333333333333,0.42923908348893747
+publication_audit/20260924/recomputed/digits_per_seed.csv:131: trailing whitespace.
++no_budget,16,211,2,0,8.16705434541974,0.16750019865993548,0.9791666666666667,0.12153547898924444
+publication_audit/20260924/recomputed/digits_per_seed.csv:132: trailing whitespace.
++no_budget,16,307,2,0,10.266928242388653,0.3218741296216477,0.9583333333333333,0.09696308350248728
+publication_audit/20260924/recomputed/digits_per_seed.csv:133: trailing whitespace.
++no_budget,16,401,2,0,10.850573849170564,0.34885025958078847,0.96875,0.057823916504275985
+publication_audit/20260924/recomputed/digits_per_seed.csv:134: trailing whitespace.
++no_budget,16,503,2,0,13.732466556086536,0.46807185979174787,0.9479166666666667,0.05187779149855487
+publication_audit/20260924/recomputed/digits_per_seed.csv:135: trailing whitespace.
++no_budget,16,601,2,0,9.00037690323693,0.2468451928273179,0.9270833333333333,0.0406864375108853
+publication_audit/20260924/recomputed/digits_per_seed.csv:136: trailing whitespace.
++no_budget,16,701,2,0,11.936880748711378,0.4170128891847271,0.96875,0.0552438745071413
+publication_audit/20260924/recomputed/digits_per_seed.csv:137: trailing whitespace.
++no_budget,16,809,2,0,8.138865674339396,0.185246685713605,0.9791666666666667,0.038679125005728565
+publication_audit/20260924/recomputed/digits_per_seed.csv:138: trailing whitespace.
++no_budget,32,101,2,0,13.250413323860542,0.1710408637971714,0.9583333333333333,1.5705126874963753
+publication_audit/20260924/recomputed/digits_per_seed.csv:139: trailing whitespace.
++no_budget,32,211,2,0,10.352394329951272,0.1267423207044278,0.9791666666666667,0.19052122898574453
+publication_audit/20260924/recomputed/digits_per_seed.csv:140: trailing whitespace.
++no_budget,32,307,2,0,13.715814395699137,0.1643319023799573,0.9583333333333333,0.18331008299719542
+publication_audit/20260924/recomputed/digits_per_seed.csv:141: trailing whitespace.
++no_budget,32,401,2,0,13.915108451584276,0.11457630314958597,0.9791666666666667,0.1377570829790784
+publication_audit/20260924/recomputed/digits_per_seed.csv:142: trailing whitespace.
++no_budget,32,503,2,0,17.03446802803429,0.12258296061263077,0.9583333333333333,0.11709529149811715
+publication_audit/20260924/recomputed/digits_per_seed.csv:143: trailing whitespace.
++no_budget,32,601,2,0,11.855747990900818,0.15015478148931305,0.9583333333333333,0.10495679199812002
+publication_audit/20260924/recomputed/digits_per_seed.csv:144: trailing whitespace.
++no_budget,32,701,2,0,15.451026049151569,0.11388643861024228,0.9895833333333333,0.18148474999179598
+publication_audit/20260924/recomputed/digits_per_seed.csv:145: trailing whitespace.
++no_budget,32,809,2,0,10.517514118279802,0.1347170790084543,0.9791666666666667,0.09290243750729132
+publication_audit/20260924/recomputed/digits_per_seed.csv:146: trailing whitespace.
++no_gates,8,101,2,0,6.538176807012535,0.6192536208404397,0.9270833333333333,0.08613754197722301
+publication_audit/20260924/recomputed/digits_per_seed.csv:147: trailing whitespace.
++no_gates,8,211,2,0,6.311922032013136,0.5421773937526603,0.9375,0.022120250010630116
+publication_audit/20260924/recomputed/digits_per_seed.csv:148: trailing whitespace.
++no_gates,8,307,2,0,6.904446647403688,0.6649982314818899,0.8854166666666667,0.02421145849802997
+publication_audit/20260924/recomputed/digits_per_seed.csv:149: trailing whitespace.
++no_gates,8,401,2,0,7.0361715863407905,0.7074445237488015,0.8541666666666667,0.035902646006434225
+publication_audit/20260924/recomputed/digits_per_seed.csv:150: trailing whitespace.
++no_gates,8,503,2,0,8.091885545786957,0.9151456107252862,0.5625,0.011947333492571488
+publication_audit/20260924/recomputed/digits_per_seed.csv:151: trailing whitespace.
++no_gates,8,601,2,0,6.402889822852355,0.6160477580872058,0.90625,0.012864562493632548
+publication_audit/20260924/recomputed/digits_per_seed.csv:152: trailing whitespace.
++no_gates,8,701,2,0,7.217862633588648,0.7653408036527143,0.8958333333333333,0.030015875003300607
+publication_audit/20260924/recomputed/digits_per_seed.csv:153: trailing whitespace.
++no_gates,8,809,2,0,6.205706439478219,0.48331557166978734,0.9583333333333333,0.010599521003314294
+publication_audit/20260924/recomputed/digits_per_seed.csv:154: trailing whitespace.
++no_gates,16,101,2,0,10.168623383497641,0.33822621112653506,0.9583333333333333,0.17962797899963334
+publication_audit/20260924/recomputed/digits_per_seed.csv:155: trailing whitespace.
++no_gates,16,211,2,0,9.097761023622061,0.21695072255595585,0.9791666666666667,0.045378749986412004
+publication_audit/20260924/recomputed/digits_per_seed.csv:156: trailing whitespace.
++no_gates,16,307,2,0,10.764001001347332,0.354849325530979,0.9479166666666667,0.04341687548730988
+publication_audit/20260924/recomputed/digits_per_seed.csv:157: trailing whitespace.
++no_gates,16,401,2,0,11.270238060743502,0.38848752564516237,0.9791666666666667,0.04003483300039079
+publication_audit/20260924/recomputed/digits_per_seed.csv:158: trailing whitespace.
++no_gates,16,503,2,0,14.045361225096554,0.5264770646164276,0.9479166666666667,0.026555125485174358
+publication_audit/20260924/recomputed/digits_per_seed.csv:159: trailing whitespace.
++no_gates,16,601,2,0,9.936880205082351,0.31070921500661386,0.9375,0.022033708504750393
+publication_audit/20260924/recomputed/digits_per_seed.csv:160: trailing whitespace.
++no_gates,16,701,2,0,11.803656420087112,0.3970979172021727,0.96875,0.04082337500585709
+publication_audit/20260924/recomputed/digits_per_seed.csv:161: trailing whitespace.
++no_gates,16,809,2,0,8.766286041826808,0.21207672080677958,0.9791666666666667,0.02339339601167012
+publication_audit/20260924/recomputed/digits_per_seed.csv:162: trailing whitespace.
++no_gates,32,101,2,0,13.895242874222813,0.17740006565660965,0.9583333333333333,0.45023312549164984
+publication_audit/20260924/recomputed/digits_per_seed.csv:163: trailing whitespace.
++no_gates,32,211,2,0,11.512915597368366,0.1311088825731046,0.9791666666666667,0.1001507494947873
+publication_audit/20260924/recomputed/digits_per_seed.csv:164: trailing whitespace.
++no_gates,32,307,2,0,14.511555861124734,0.17247892230506556,0.9583333333333333,0.06562595799914561
+publication_audit/20260924/recomputed/digits_per_seed.csv:165: trailing whitespace.
++no_gates,32,401,2,0,14.860914720703178,0.12467672545618276,0.9791666666666667,0.04937933350447565
+publication_audit/20260924/recomputed/digits_per_seed.csv:166: trailing whitespace.
++no_gates,32,503,2,0,17.74257167626493,0.12645985753047478,0.9583333333333333,0.059735249989898875
+publication_audit/20260924/recomputed/digits_per_seed.csv:167: trailing whitespace.
++no_gates,32,601,2,0,13.288328614703701,0.16281704090499816,0.9375,0.09456402050273027
+publication_audit/20260924/recomputed/digits_per_seed.csv:168: trailing whitespace.
++no_gates,32,701,2,0,15.010598769470757,0.11061652557647722,0.9895833333333333,0.08922931250708643
+publication_audit/20260924/recomputed/digits_per_seed.csv:169: trailing whitespace.
++no_gates,32,809,2,0,11.305775835092632,0.13802337812925136,0.9791666666666667,0.07086337498913053
+publication_audit/20260924/recomputed/digits_per_seed.csv:170: trailing whitespace.
++official_celo2,8,101,2,0,4.557635931027593,0.28174130048004714,0.9270833333333333,0.03090289598912932
+publication_audit/20260924/recomputed/digits_per_seed.csv:171: trailing whitespace.
++official_celo2,8,211,2,0,3.897949738412815,0.24953726186447575,0.9583333333333333,0.04244929148990195
+publication_audit/20260924/recomputed/digits_per_seed.csv:172: trailing whitespace.
++official_celo2,8,307,2,0,4.427827494744868,0.3215069200422803,0.9583333333333333,0.040608895986224525
+publication_audit/20260924/recomputed/digits_per_seed.csv:173: trailing whitespace.
++official_celo2,8,401,2,0,4.203181566766622,0.32723678573702786,0.96875,0.033426729001803324
+publication_audit/20260924/recomputed/digits_per_seed.csv:174: trailing whitespace.
++official_celo2,8,503,2,0,4.40487500455801,0.2527354098437977,0.9791666666666667,0.024766062502749264
+publication_audit/20260924/recomputed/digits_per_seed.csv:175: trailing whitespace.
++official_celo2,8,601,2,0,3.878069775735269,0.22551661976282358,0.96875,0.03208281249681022
+publication_audit/20260924/recomputed/digits_per_seed.csv:176: trailing whitespace.
++official_celo2,8,701,2,0,4.513510495317291,0.1983226612847779,0.9791666666666667,0.02342289600346703
+publication_audit/20260924/recomputed/digits_per_seed.csv:177: trailing whitespace.
++official_celo2,8,809,2,0,4.283798435271659,0.28587872506084633,0.9791666666666666,0.02511887499713339
+publication_audit/20260924/recomputed/digits_per_seed.csv:178: trailing whitespace.
++official_celo2,16,101,2,0,6.474200686087456,0.19419923385128796,0.9375,0.049661312499665655
+publication_audit/20260924/recomputed/digits_per_seed.csv:179: trailing whitespace.
++official_celo2,16,211,2,0,5.595887425444483,0.20608415070526503,0.96875,0.05813154099450912
+publication_audit/20260924/recomputed/digits_per_seed.csv:180: trailing whitespace.
++official_celo2,16,307,2,0,6.048776943115657,0.09316573171607848,0.96875,0.0598982499941485
+publication_audit/20260924/recomputed/digits_per_seed.csv:181: trailing whitespace.
++official_celo2,16,401,2,0,5.629447742790912,0.07996613828240814,1.0,0.07032129199069459
+publication_audit/20260924/recomputed/digits_per_seed.csv:182: trailing whitespace.
++official_celo2,16,503,2,0,5.7931095049472,0.08235797441174339,1.0,0.05144504200143274
+publication_audit/20260924/recomputed/digits_per_seed.csv:183: trailing whitespace.
++official_celo2,16,601,2,0,5.669539775291366,0.134715859909522,0.9791666666666667,0.05428393751208205
+publication_audit/20260924/recomputed/digits_per_seed.csv:184: trailing whitespace.
++official_celo2,16,701,2,0,6.088874476303066,0.09712190441820107,0.9895833333333333,0.09676029151887633
+publication_audit/20260924/recomputed/digits_per_seed.csv:185: trailing whitespace.
++official_celo2,16,809,2,0,6.114561909858953,0.08406510892263602,0.9895833333333333,0.04371006249857601
+publication_audit/20260924/recomputed/digits_per_seed.csv:186: trailing whitespace.
++official_celo2,32,101,2,0,8.941021962232892,0.16125756464938995,0.9791666666666667,0.157650458990247
+publication_audit/20260924/recomputed/digits_per_seed.csv:187: trailing whitespace.
++official_celo2,32,211,2,0,8.260487901860696,0.14019824073515103,0.96875,0.15917179149982985
+publication_audit/20260924/recomputed/digits_per_seed.csv:188: trailing whitespace.
++official_celo2,32,307,2,0,7.339016636191516,0.09602102193143057,0.9791666666666667,0.1287212090101093
+publication_audit/20260924/recomputed/digits_per_seed.csv:189: trailing whitespace.
++official_celo2,32,401,2,0,6.942846279632596,0.08054585022570246,0.9895833333333333,0.116066395494272
+publication_audit/20260924/recomputed/digits_per_seed.csv:190: trailing whitespace.
++official_celo2,32,503,2,0,7.125697608430242,0.07612484280957281,0.9895833333333333,0.09476114599965513
+publication_audit/20260924/recomputed/digits_per_seed.csv:191: trailing whitespace.
++official_celo2,32,601,2,0,7.69686196572118,0.1069675526009731,0.9895833333333333,0.13356450000719633
+publication_audit/20260924/recomputed/digits_per_seed.csv:192: trailing whitespace.
++official_celo2,32,701,2,0,7.574384104949298,0.11409740401723721,0.9791666666666667,0.10830527100188192
+publication_audit/20260924/recomputed/digits_per_seed.csv:193: trailing whitespace.
++official_celo2,32,809,2,0,8.082505801830948,0.15314289422611344,0.96875,0.12996762502007186
+publication_audit/20260924/recomputed/digits_per_seed.csv:194: trailing whitespace.
++reset_state,8,101,2,0,6.417896804547412,0.5894689622929566,0.9270833333333333,0.16794581200520042
+publication_audit/20260924/recomputed/digits_per_seed.csv:195: trailing whitespace.
++reset_state,8,211,2,0,6.150638106331527,0.5015936156818088,0.9479166666666667,0.023718187512713484
+publication_audit/20260924/recomputed/digits_per_seed.csv:196: trailing whitespace.
++reset_state,8,307,2,0,6.743503657939802,0.6251340681638666,0.8854166666666667,0.04315102049440611
+publication_audit/20260924/recomputed/digits_per_seed.csv:197: trailing whitespace.
++reset_state,8,401,2,0,6.97526162729266,0.6863215052611873,0.8541666666666667,0.040419875003863126
+publication_audit/20260924/recomputed/digits_per_seed.csv:198: trailing whitespace.
++reset_state,8,503,2,0,8.065388866246087,0.9060538726238145,0.5729166666666666,0.022245979009312578
+publication_audit/20260924/recomputed/digits_per_seed.csv:199: trailing whitespace.
++reset_state,8,601,2,0,6.18543463177006,0.5609157296006413,0.90625,0.02026281251164619
+publication_audit/20260924/recomputed/digits_per_seed.csv:200: trailing whitespace.
++reset_state,8,701,2,0,7.2338974216315055,0.7782517894940977,0.8958333333333333,0.021228083001915365
+publication_audit/20260924/recomputed/digits_per_seed.csv:201: trailing whitespace.
++reset_state,8,809,2,0,5.96841093059386,0.4394968802098017,0.9895833333333333,0.02243889548117295
+publication_audit/20260924/recomputed/digits_per_seed.csv:202: trailing whitespace.
++reset_state,16,101,2,0,9.855405599201,0.31928709362196817,0.9583333333333333,0.47374695850885473
+publication_audit/20260924/recomputed/digits_per_seed.csv:203: trailing whitespace.
++reset_state,16,211,2,0,8.699167811785614,0.1912068974194918,0.9791666666666667,0.05482581247633789
+publication_audit/20260924/recomputed/digits_per_seed.csv:204: trailing whitespace.
++reset_state,16,307,2,0,10.343917955883088,0.329935238816621,0.9479166666666667,0.09522218799975235
+publication_audit/20260924/recomputed/digits_per_seed.csv:205: trailing whitespace.
++reset_state,16,401,2,0,11.004955838435158,0.3642453175387493,0.96875,0.04222354201192502
+publication_audit/20260924/recomputed/digits_per_seed.csv:206: trailing whitespace.
++reset_state,16,503,2,0,13.848762632180451,0.4913043525401203,0.9479166666666667,0.048961167005472817
+publication_audit/20260924/recomputed/digits_per_seed.csv:207: trailing whitespace.
++reset_state,16,601,2,0,9.308962303143055,0.2705610436816604,0.9375,0.09258243750082329
+publication_audit/20260924/recomputed/digits_per_seed.csv:208: trailing whitespace.
++reset_state,16,701,2,0,12.098613985040135,0.4396954642498772,0.96875,0.04249974999402184
+publication_audit/20260924/recomputed/digits_per_seed.csv:209: trailing whitespace.
++reset_state,16,809,2,0,8.272855059816544,0.1921929217259279,0.9791666666666667,0.04792474998976104
+publication_audit/20260924/recomputed/digits_per_seed.csv:210: trailing whitespace.
++reset_state,32,101,2,0,13.409826618966411,0.17308027183459423,0.9583333333333333,0.5700380625057733
+publication_audit/20260924/recomputed/digits_per_seed.csv:211: trailing whitespace.
++reset_state,32,211,2,0,11.030969584417447,0.12826827006620461,0.9791666666666667,0.26470735350449104
+publication_audit/20260924/recomputed/digits_per_seed.csv:212: trailing whitespace.
++reset_state,32,307,2,0,13.85810723990032,0.16663741634804538,0.9583333333333333,0.15808712449506857
+publication_audit/20260924/recomputed/digits_per_seed.csv:213: trailing whitespace.
++reset_state,32,401,2,0,14.247722319835855,0.11836101248755217,0.9791666666666667,0.10362827150675002
+publication_audit/20260924/recomputed/digits_per_seed.csv:214: trailing whitespace.
++reset_state,32,503,2,0,17.29107303742473,0.12376996569902086,0.9583333333333333,0.12170531299489085
+publication_audit/20260924/recomputed/digits_per_seed.csv:215: trailing whitespace.
++reset_state,32,601,2,0,12.339212913188668,0.15524695381530124,0.9583333333333333,0.07370449999871198
+publication_audit/20260924/recomputed/digits_per_seed.csv:216: trailing whitespace.
++reset_state,32,701,2,0,15.881776204396372,0.11920471241528388,0.9791666666666667,0.10541966650635004
+publication_audit/20260924/recomputed/digits_per_seed.csv:217: trailing whitespace.
++reset_state,32,809,2,0,10.683397818413328,0.13548534761091904,0.9791666666666667,0.116550188002293
+publication_audit/20260924/recomputed/digits_per_seed.csv:218: trailing whitespace.
++sgd,8,101,2,0,4.920762874211036,0.3124490033098334,0.9583333333333333,0.035973645994090475
+publication_audit/20260924/recomputed/digits_per_seed.csv:219: trailing whitespace.
++sgd,8,211,2,0,5.129105617579281,0.3010770408348109,0.96875,0.02111800001875963
+publication_audit/20260924/recomputed/digits_per_seed.csv:220: trailing whitespace.
++sgd,8,307,2,0,5.751519876966233,0.405671743220226,0.9375,0.0053694790112785995
+publication_audit/20260924/recomputed/digits_per_seed.csv:221: trailing whitespace.
++sgd,8,401,2,0,5.627895306594933,0.38514903901483327,0.9791666666666667,0.006215187517227605
+publication_audit/20260924/recomputed/digits_per_seed.csv:222: trailing whitespace.
++sgd,8,503,2,0,7.290765598010182,0.6295647249081209,0.875,0.007273062496096827
+publication_audit/20260924/recomputed/digits_per_seed.csv:223: trailing whitespace.
++sgd,8,601,2,0,4.8710962688057045,0.2980921761916555,0.9375,0.00891127050272189
+publication_audit/20260924/recomputed/digits_per_seed.csv:224: trailing whitespace.
++sgd,8,701,2,0,6.1276522906776005,0.4495614796150307,0.96875,0.00811518749105744
+publication_audit/20260924/recomputed/digits_per_seed.csv:225: trailing whitespace.
++sgd,8,809,2,0,4.821543809752078,0.26386538337898063,0.9791666666666667,0.006996083495323546
+publication_audit/20260924/recomputed/digits_per_seed.csv:226: trailing whitespace.
++sgd,16,101,2,0,6.65750343425503,0.1708108648470608,0.9583333333333333,0.43451366701629013
+publication_audit/20260924/recomputed/digits_per_seed.csv:227: trailing whitespace.
++sgd,16,211,2,0,6.610401361278729,0.13800251907285857,0.9791666666666667,0.028252978503587656
+publication_audit/20260924/recomputed/digits_per_seed.csv:228: trailing whitespace.
++sgd,16,307,2,0,7.9353028810892345,0.18963069903440072,0.9583333333333333,0.03675499999371823
+publication_audit/20260924/recomputed/digits_per_seed.csv:229: trailing whitespace.
++sgd,16,401,2,0,7.404735766958701,0.12132954714556202,0.9791666666666667,0.01850339549127966
+publication_audit/20260924/recomputed/digits_per_seed.csv:230: trailing whitespace.
++sgd,16,503,2,0,9.629028559970921,0.13380274920075602,0.9583333333333333,0.014243729005102068
+publication_audit/20260924/recomputed/digits_per_seed.csv:231: trailing whitespace.
++sgd,16,601,2,0,6.493333999219339,0.16093183496999275,0.9479166666666667,0.014906750002410263
+publication_audit/20260924/recomputed/digits_per_seed.csv:232: trailing whitespace.
++sgd,16,701,2,0,8.064522011238369,0.11882922484125347,0.9791666666666667,0.015593374497257173
+publication_audit/20260924/recomputed/digits_per_seed.csv:233: trailing whitespace.
++sgd,16,809,2,0,6.247955113290026,0.1501187191331196,0.9791666666666667,0.014769708490348421
+publication_audit/20260924/recomputed/digits_per_seed.csv:234: trailing whitespace.
++sgd,32,101,2,0,13.009896751825707,0.2278851093425299,0.9479166666666667,0.760206687511527
+publication_audit/20260924/recomputed/digits_per_seed.csv:235: trailing whitespace.
++sgd,32,211,2,0,10.579906758206393,0.1505599580776566,0.9791666666666667,0.06294627099123318
+publication_audit/20260924/recomputed/digits_per_seed.csv:236: trailing whitespace.
++sgd,32,307,2,0,13.084195779876586,0.2649526032647484,0.96875,0.06172981248528231
+publication_audit/20260924/recomputed/digits_per_seed.csv:237: trailing whitespace.
++sgd,32,401,2,0,12.343127105196844,0.18512509721973944,0.9791666666666667,0.04586608349927701
+publication_audit/20260924/recomputed/digits_per_seed.csv:238: trailing whitespace.
++sgd,32,503,2,0,11.465422471446002,0.12631943349039493,0.9583333333333333,0.054575313013629057
+publication_audit/20260924/recomputed/digits_per_seed.csv:239: trailing whitespace.
++sgd,32,601,2,0,12.373086773598681,0.22903733138240626,0.96875,0.023856895495555364
+publication_audit/20260924/recomputed/digits_per_seed.csv:240: trailing whitespace.
++sgd,32,701,2,0,10.74440028873201,1.286618095020672,0.75,0.023129833498387598
+publication_audit/20260924/recomputed/digits_per_seed.csv:241: trailing whitespace.
++sgd,32,809,2,0,12.04923060315766,0.13367452653842235,0.9791666666666667,0.0405105204845313
+publication_audit/20260924/recomputed/malis_per_seed.csv:1: trailing whitespace.
++seed,method,value,actions,gradients,rollbacks
+publication_audit/20260924/recomputed/malis_per_seed.csv:2: trailing whitespace.
++101,adamw,0.012241577289929386,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:3: trailing whitespace.
++101,learned_phase,0.04367221157681687,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:4: trailing whitespace.
++101,learned_with_rollback,0.04367221157681687,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:5: trailing whitespace.
++101,momentum,0.06158323284993575,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:6: trailing whitespace.
++101,random,0.1418418906803725,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:7: trailing whitespace.
++101,sgd,0.5118670681634461,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:8: trailing whitespace.
++211,adamw,0.02767180225690571,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:9: trailing whitespace.
++211,learned_phase,0.04225123619678831,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:10: trailing whitespace.
++211,learned_with_rollback,0.04225123619678831,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:11: trailing whitespace.
++211,momentum,0.08880872571568585,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:12: trailing whitespace.
++211,random,0.0907544487426501,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:13: trailing whitespace.
++211,sgd,0.7151524762471769,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:14: trailing whitespace.
++307,adamw,0.03426294452956739,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:15: trailing whitespace.
++307,learned_phase,0.026439999850536036,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:16: trailing whitespace.
++307,learned_with_rollback,0.022090911874329888,128,121,7
+publication_audit/20260924/recomputed/malis_per_seed.csv:17: trailing whitespace.
++307,momentum,0.0834074649582022,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:18: trailing whitespace.
++307,random,0.12563022900000245,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:19: trailing whitespace.
++307,sgd,0.6898527075600072,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:20: trailing whitespace.
++401,adamw,0.023052981039386262,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:21: trailing whitespace.
++401,learned_phase,0.026735458756464395,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:22: trailing whitespace.
++401,learned_with_rollback,0.0466843505130809,128,114,14
+publication_audit/20260924/recomputed/malis_per_seed.csv:23: trailing whitespace.
++401,momentum,0.05074119583244979,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:24: trailing whitespace.
++401,random,0.10690529992730805,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:25: trailing whitespace.
++401,sgd,0.5419878325941568,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:26: trailing whitespace.
++503,adamw,0.01797585496981206,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:27: trailing whitespace.
++503,learned_phase,0.025083168342376626,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:28: trailing whitespace.
++503,learned_with_rollback,0.06202847329081967,128,118,10
+publication_audit/20260924/recomputed/malis_per_seed.csv:29: trailing whitespace.
++503,momentum,0.025562601797015867,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:30: trailing whitespace.
++503,random,0.08438325948781265,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:31: trailing whitespace.
++503,sgd,0.3986157177035654,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:32: trailing whitespace.
++601,adamw,0.02135627038947964,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:33: trailing whitespace.
++601,learned_phase,0.05151512386236457,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:34: trailing whitespace.
++601,learned_with_rollback,0.06428884153186813,128,125,3
+publication_audit/20260924/recomputed/malis_per_seed.csv:35: trailing whitespace.
++601,momentum,0.0409488536790981,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:36: trailing whitespace.
++601,random,0.06770378178093026,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:37: trailing whitespace.
++601,sgd,0.4568850244917509,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:38: trailing whitespace.
++701,adamw,0.026836978429315993,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:39: trailing whitespace.
++701,learned_phase,0.03210413842497944,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:40: trailing whitespace.
++701,learned_with_rollback,0.051192830088333495,128,100,28
+publication_audit/20260924/recomputed/malis_per_seed.csv:41: trailing whitespace.
++701,momentum,0.07819456095330928,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:42: trailing whitespace.
++701,random,0.0766999071294674,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:43: trailing whitespace.
++701,sgd,0.6041558075120753,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:44: trailing whitespace.
++809,adamw,0.01332088698559233,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:45: trailing whitespace.
++809,learned_phase,0.026421243145542048,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:46: trailing whitespace.
++809,learned_with_rollback,0.0479149789015964,128,93,35
+publication_audit/20260924/recomputed/malis_per_seed.csv:47: trailing whitespace.
++809,momentum,0.06254696023949088,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:48: trailing whitespace.
++809,random,0.07150992862171003,128,128,0
+publication_audit/20260924/recomputed/malis_per_seed.csv:49: trailing whitespace.
++809,sgd,0.3639293800431305,128,128,0
+publication_audit/20260924/recomputed/sensitivity.csv:1: trailing whitespace.
++method,seeds,primary_auc,sensitivity_auc,sensitivity_final_loss,sensitivity_accuracy,selected_upper_boundary,selected_lower_boundary
+publication_audit/20260924/recomputed/sensitivity.csv:2: trailing whitespace.
++adamw,8,6.414486150844294,6.414486150844294,0.08130132887051003,0.9752604166666667,0,0
+publication_audit/20260924/recomputed/sensitivity.csv:3: trailing whitespace.
++feedforward,8,13.123861841337943,16.399609326791307,0.21797539495140195,0.9270833333333333,7,0
+publication_audit/20260924/recomputed/sensitivity.csv:4: trailing whitespace.
++full,8,13.280946872115056,,,,5,0
+publication_audit/20260924/recomputed/sensitivity.csv:5: trailing whitespace.
++initialization_only,8,17.26017799578648,13.85077006859699,0.24510279012211783,0.9348958333333334,1,0
+publication_audit/20260924/recomputed/sensitivity.csv:6: trailing whitespace.
++momentum,8,7.989325295824565,7.989325295824565,0.0733278307193872,0.9856770833333333,0,0
+publication_audit/20260924/recomputed/sensitivity.csv:7: trailing whitespace.
++no_budget,8,13.261560835932713,,,,5,0
+publication_audit/20260924/recomputed/sensitivity.csv:8: trailing whitespace.
++no_gates,8,14.01598799361889,12.015569439270772,0.30433264207477934,0.9388020833333333,8,0
+publication_audit/20260924/recomputed/sensitivity.csv:9: trailing whitespace.
++reset_state,8,13.592760717067891,,,,6,0
+publication_audit/20260924/recomputed/sensitivity.csv:10: trailing whitespace.
++sgd,8,11.956158316504986,11.956158316504986,0.3255215192920712,0.94140625,0,0

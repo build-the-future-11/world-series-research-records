@@ -1,0 +1,18 @@
+{
+  "source_head": "65b923e6ac6457d752b5fff040f51beebf72c1e9",
+  "test_suite": {
+    "passed": 116,
+    "log": "final-tests.log",
+    "sha256": "ab0450d63d43cc8a58297a6dda6c635e428a7c29e3f460f7b3246c622fbef8e0",
+    "warning": "Existing requires_grad tensor-to-scalar test warning; no test failures."
+  },
+  "claims": "claims-verification-reconciled.json",
+  "initial_claim_check_failure": "claims-verification.json retained; the exact old WFIM source resolves in original Git history, not by changing frozen evidence",
+  "paper": {
+    "active_manuscripts": 1,
+    "compiled": 1,
+    "pages_visually_reviewed": 6,
+    "historical_drafts": "retained as provenance, not recertified publications"
+  },
+  "scope": "Private engineering export; scientific publication and independent confirmation remain distinct."
+}

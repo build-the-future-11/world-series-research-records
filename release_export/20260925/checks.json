@@ -1,0 +1,93 @@
+[
+  {
+    "check": "dependencies",
+    "argv": [
+      "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+      "-m",
+      "pip",
+      "check"
+    ],
+    "exit_code": 0,
+    "seconds": 1.353,
+    "log": "dependencies.log"
+  },
+  {
+    "check": "tests",
+    "argv": [
+      "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+      "-m",
+      "pytest",
+      "tests",
+      "-q",
+      "--basetemp",
+      "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/final-release-20260925/pytest"
+    ],
+    "exit_code": 0,
+    "seconds": 15.201,
+    "log": "tests.log"
+  },
+  {
+    "check": "lint",
+    "argv": [
+      "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+      "-m",
+      "ruff",
+      "check",
+      "src",
+      "tests",
+      "scripts"
+    ],
+    "exit_code": 1,
+    "seconds": 0.251,
+    "log": "lint.log"
+  },
+  {
+    "check": "doctor",
+    "argv": [
+      "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+      "-m",
+      "world_series",
+      "doctor"
+    ],
+    "exit_code": 0,
+    "seconds": 4.345,
+    "log": "doctor.log"
+  },
+  {
+    "check": "wheel",
+    "argv": [
+      "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+      "-m",
+      "pip",
+      "wheel",
+      "--no-deps",
+      "--no-build-isolation",
+      "--wheel-dir",
+      "/Volumes/PRO-BLADE/World-Series/world-series/.work-tmp/final-release-20260925/wheel",
+      "."
+    ],
+    "exit_code": 0,
+    "seconds": 4.229,
+    "log": "wheel.log"
+  },
+  {
+    "check": "planning",
+    "argv": [
+      "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+      "tools/validate_pack.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.097,
+    "log": "planning.log"
+  },
+  {
+    "check": "math",
+    "argv": [
+      "/Volumes/PRO-BLADE/World-Series/world-series/.venv/bin/python",
+      "tools/check_math_reference.py"
+    ],
+    "exit_code": 0,
+    "seconds": 0.086,
+    "log": "math.log"
+  }
+]

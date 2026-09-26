@@ -1,0 +1,6 @@
+world_series_cursor_pack check_math_reference
+PASS bounded_diagonal_update
+PASS finite_mixture_moments
+PASS sparse_laplacian_psd
+STATUS: PASS
+NOTE: tiny reference examples only; not a theorem proof or trained model.

@@ -1,0 +1,7 @@
+world_series_cursor_pack validate_pack
+root: /Volumes/PRO-BLADE/World-Series/world_series_cursor_pack
+docs_ok: True
+projects: 9 namespaces
+tasks: 63
+STATUS: PASS
+NOTE: planning consistency only; no application or model is implied.

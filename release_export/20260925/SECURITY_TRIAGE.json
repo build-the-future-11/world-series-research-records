@@ -1,0 +1,10 @@
+{
+  "raw_findings": 2160,
+  "verified_false_positives": {
+    "experiment ID matches preserved receipt basename": 2088,
+    "verified artifact SHA-256": 72
+  },
+  "unresolved": [],
+  "history_findings": 0,
+  "scope": "All candidate findings classified by matching experiment IDs to preserved receipt basenames or recomputing artifact SHA-256; no broad scanner suppression."
+}
