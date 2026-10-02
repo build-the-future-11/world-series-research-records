@@ -1,0 +1,29 @@
+{
+  "schema_version": "world-series-portfolio-state-receipt-v1",
+  "created_from_revision": "b3693e2aea78a34dc8300c0126abf0943ee2b4bc",
+  "closure_revision": "baf47ce94fa8d76991de0254ad04f26b5b19b8b5",
+  "world_series_implementation_revision": "a7ab171465aa92aec57e2079f8df71e7685d4cf9",
+  "project_count": 14,
+  "active_current_research_backlog": "ZERO",
+  "files": {
+    "RESEARCH_STATE.md": {
+      "git_blob_sha": "dea3870cb7eae7a0a1df2059289e1c103de3f818"
+    },
+    "COMPLETION_MANIFEST.md": {
+      "git_blob_sha": "f39ffa2a872d32c5ebcc718006662317c894c7af"
+    },
+    "RESEARCH_PORTFOLIO.csv": {
+      "git_blob_sha": "b569c9fe92f547f770f21383db8deaccf8462f84"
+    },
+    "PORTFOLIO_FINAL_STATUS_2026-09-30.md": {
+      "git_blob_sha": "3cc867ad7b740c73da9f018b9e2d30ac53b5fd4f"
+    }
+  },
+  "scope": "Collection-level provenance receipt only. It adds no experiment, no new numerical result, no scientific upgrade, and does not replace project-specific protocols, evidence ledgers, raw artifacts, or frozen conclusions.",
+  "interpretation_boundary": [
+    "Closed current versions remain closed at their recorded bounded endpoints.",
+    "Optional successors require new versioning, protocol/falsifier, freeze, and protected evaluation boundary.",
+    "Negative, mixed, and inconclusive outcomes remain preserved.",
+    "This receipt must not be used to infer independent replication, external validity, novelty, acceptance, or deployment."
+  ]
+}
